@@ -1,0 +1,16 @@
+cd ..
+cd ~/hask/slime/lets-program/step1/
+ls
+ghci Game.hs 
+exit
+cat .bashrc
+ghci
+exit
+ls
+ls -al
+cd tus
+cd ..
+man ls
+/opt/tustep/start mainz_reg
+gf
+exit

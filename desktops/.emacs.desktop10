@@ -1,0 +1,591 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon May 23 00:46:02 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22338 13994 220981 824000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#F0F0E0") (background-color . "#090F10") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "WhiteSmoke") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha 100 90) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "orange") (environment) (frameset--id . "A655-3F9C-BED4-A3C1") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 51) (width . 155) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 120) (min-pixel-width . 80) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 30) (min-pixel-width-safe . 16)) vc (pixel-width . 1272) (pixel-height . 761) (total-width . 141) (total-height . 51) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1272) (pixel-height . 521) (total-width . 141) (total-height . 35) (normal-height . 0.6773981603153745) (normal-width . 1.0) (buffer "capabilities.org" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 7708) (start . 141))) (leaf (last . t) (pixel-width . 1272) (pixel-height . 240) (total-width . 141) (total-height . 16) (normal-height . 0.3226018396846255) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 1100) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("dicro" "oder" "hidd" "dicrom" "\\<routes\\>" "t" "config" "\\<len\\>" "config" "mithr" "mith" "menu" "nav" "navbar" "state" "status"))
+(setq register-alist '((48 . "#+LATEX_CLASS: cn-article\n#+LATEX_HEADER: \\setlist[itemize]{noitemsep, nolistsep}\n#+LATEX_HEADER: \\setlist[enumerate]{noitemsep, nolistsep}\n#+LATEX_HEADER: \\setcounter{tocdepth}{4} % -- maximaler Å‹berschriftentiefe nun\n#+LATEX_HEADER: \\setcounter{secnumdepth}{4}\n#+LANGUAGE: de-de\n#+OPTIONS: H:4 skip:nil ^:nil timestamp:nil\n#+TITLE: Aristoteles -- GlÅ¸ck\n\\newpage\n")))
+(setq file-name-history '("/home/rtb/doks/mausi/pholignite/application/config/config.php" "/home/rtb/doks/mausi/pholignite/application/config/constants.php" "/home/rtb/doks/mausi/pholignite/application/config/routes.php" "/home/rtb/doks/mausi/pholignite/application/controllers/Welcome.php" "/home/rtb/doks/mausi/pholignite/application/config/config.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step4.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/ownMethods.js" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/all/header.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/language/de_DE.js" "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar/index.html" "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar-fixed-top/navbar-fixed-top.css" "/home/rtb/doks/mausi/pholignite/app.js" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_app.php" "/home/rtb/doks/mausi/index-beez-20.php" "/home/rtb/clojure/chestnut-gae/resources/public/index.html" "/home/rtb/clojure/chestnut-gae/README.md" "/home/rtb/clojure/chestnut-gae/project.clj" "/home/rtb/doks/koze/font/fontentwicklung_und_-pflege.komplett-dateien/KompLett.svg" "/home/rtb/doks/mag/mÅ¸ndlich/hÅ¸ning/hobbes.tex" "/home/rtb/doks/new_mag/notes.org" "/home/rtb/.emacs" "~/doks/mag/mÅ¸ndlich/hÅ¸ning/hobbes.org" "/home/rtb/doks/new_mag/rt-gramm_frwk_chi.org" "/home/rtb/doks/mag/mÅ¸ndlich/liang/neoconf.tex" "/home/rtb/doks/mag/mÅ¸ndlich/liang/neoconf.enex" "/home/rtb/doks/mag/mag.org" "/home/rtb/.emacs" "/home/rtb/todo.org" "/home/rtb/doks/mag/mÅ¸ndlich/liang/dynastien.org" "/home/rtb/todo.org" "/home/rtb/tus/gpsr/gpsr_p.txt" "/home/rtb/tus/gpsr/gpsr_7_1.txt" "/home/rtb/tus/gpsr/exch.hlp" "/opt/tustep/codes" "/home/rtb/tus/gpsr/gpsr_7_1.txt" "/home/rtb/doks/koze/server_hiwiraum.txt" "/home/rtb/tus/wag3/last.el" "/home/rtb/tus/wag3/z9.txt" "/home/rtb/tus/wag3/.einf_fehler.txt.~undo-tree~" "/home/rtb/tus/wag3/einf_fehler.txt" "/home/rtb/tus/wag3/x2out.txt" "/home/rtb/tus/wag3/p_longs_p.txt" "/home/rtb/tus/wag3/durchgesehen/changeset_r04ef8e1a54b03d92e688f1b38db688bdb42dc4d7.diff" "/home/rtb/tus/wag3/longs_neutoCheck.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/.gitignore" "/home/rtb/.local/share/konsole/tustep.profile" "/usr/share/konsole/default.keytab" "/usr/share/konsole/README.KeyTab" "/home/rtb/.local/share/konsole/tustep.keytab" "/home/rtb/tus/awb/kawb6out.txt" "/home/rtb/tus/awb/nummx3.txt" "/home/rtb/tus/awb/kawb6.txt" "/home/rtb/tus/awb/awb6_10b14.txt" "/home/rtb/tus/wag3/verschickt_fÅ¸r_Durchsicht/tipps.txt" "/home/rtb/tus/wag3/durchgesehen/longs_neu_durchgesehen.txt" "/home/rtb/tus/wag3/verschickt_fÅ¸r_Durchsicht/nolongs_neu.txt" "/home/rtb/tus/wag3/durchgesehen/nolongs_neu_durchgesehen.txt" "/home/rtb/.xinitrc" "/home/rtb/.cabal/share/x86_64-linux-ghc-7.8.4/hyphenation-0.4.2/hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/patch-hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/hyphenation-0.4/src/Text/Hyphenation/Hyphenator.hs" "/home/rtb/tus/wag3/x1.txt" "/home/rtb/tus/wag3/z4.txt" "/home/rtb/tus/awb/awb6bout.txt" "/home/rtb/tus/wag3/words2.txt" "/home/rtb/.tustep/clipboard" "/home/rtb/tus/wag3/longs.txt" "/home/rtb/tus/wag3/nolongs-1-toCheck.txt" "/home/rtb/tus/wag3/nolongs.txt" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/tus/wagner/hyphened.txt" "/home/rtb/tus/wag3/hyphened.txt" "/home/rtb/.emacs.d/plugins/ox-koma-letter.el" "/home/rtb/doks/cv/my/kleine_fluchten.org" "/home/rtb/.emacs.d/desktops/.emacs.desktop" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/.emacs" "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm" "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/krieger/capabilities.org"
+  "capabilities.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode text-scale-mode)
+  7708
+  '(388 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/hÅ¸ning/hobbes.org"
+  "hobbes.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode smartparens-mode)
+  1783
+  '(2048 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/krieger/glÅ¸ck.org"
+  "glÅ¸ck.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode smartparens-mode)
+  1
+  '(364 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol.js"
+  "phol.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6453
+  '(6432 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/views/mithril-023.js"
+  "mithril-023.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  53283
+  '(40140 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/views/park-hol.php"
+  "park-hol.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1465
+  '(1519 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/config/config.php"
+  "config.php"
+  'conf-javaprop-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  13939
+  '(14525 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/config/routes.php"
+  "routes.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  874
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_app.php"
+  "achtsam_app.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  8562
+  '(5728 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/controllers/P.php"
+  "P.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  644
+  '(802 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/config/constants.php"
+  "constants.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  702
+  '(702 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/mithril.validator.js"
+  "mithril.validator.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1033
+  '(1704 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/ownMethods.js"
+  "ownMethods.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  339
+  '(870 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "pholignite"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  97
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "htdocs"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  1688
+  '(nil nil)
+  t
+  '("/home/rtb/doks/psycho/htdocs/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar-fixed-top/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  4214
+  '(34 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  1443
+  '(3417 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar-fixed-top/navbar-fixed-top.css"
+  "navbar-fixed-top.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  16
+  '(38 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/_data/glyphicons.yml"
+  "glyphicons.yml"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  124
+  '(1544 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/jumbotron-narrow/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  1859
+  '(2217 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "js"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  778
+  '(nil nil)
+  t
+  '("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "application"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  523
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/application/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/datepick/datepicker/css/datepicker.css"
+  "datepicker.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  4903
+  '(4953 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "css"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  109
+  '(nil nil)
+  t
+  '("/home/rtb/Downloads/datepick/datepicker/css/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "navbar-fixed-top"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  132
+  '(nil nil)
+  t
+  '("/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar-fixed-top/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "docs"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  107
+  '(nil nil)
+  t
+  '("/home/rtb/Downloads/bootstrap-3.3.6/docs/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/views/welcome_message.php"
+  "welcome_message.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(2052 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/application/config/database.php"
+  "database.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  4158
+  '(4187 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/readme.rst"
+  "readme.rst"
+  'rst-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(2283 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/index-beez-20.php"
+  "index-beez-20.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5653
+  '(8557 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "krieger"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  100
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mag/mÅ¸ndlich/krieger/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "chestnut_gae"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  117
+  '(nil nil)
+  t
+  '("/home/rtb/clojure/chestnut-gae/src/cljs/chestnut_gae/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/hÅ¸ning/hobbes.tex"
+  "hobbes.tex"
+  'latex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1286
+  '(2117 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  51233
+  '(47628 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/chestnut-gae/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode cider-mode)
+  634
+  '(4747 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/chestnut-gae/resources/public/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  221
+  '(235 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "google"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  81
+  '(nil nil)
+  t
+  '("/home/rtb/google/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/chestnut-gae/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1347
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/chestnut-gae/dev/user.clj"
+  "user.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode cider-mode)
+  437
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/chestnut-gae/src/clj/chestnut_gae/server.clj"
+  "server.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode cider-mode)
+  515
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/org-plus-contrib-20150629/ox-latex.el"
+  "ox-latex.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  32385
+  '(52488 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/notes.org"
+  "notes.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2574
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/limao.org"
+  "limao.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode smartparens-mode)
+  35
+  '(291 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/dynastien.org"
+  "dynastien.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode smartparens-mode)
+  22898
+  '(203 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/neoconf.org"
+  "neoconf.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode smartparens-mode)
+  12829
+  '(13122 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/1200-1300+Umfeld.org"
+  "1200-1300+Umfeld.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode)
+  1
+  '(203 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/neoconf.tex"
+  "neoconf.tex"
+  'latex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2828
+  '(3886 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mag.org"
+  "mag.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  63233
+  '(63247 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "liang"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  385
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mag/mÅ¸ndlich/liang/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/toCSV.hs"
+  "toCSV.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mÅ¸ndlich/liang/SongLiaoJinXia.jpg"
+  "SongLiaoJinXia.jpg"
+  'image-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (truncate-lines)))
+

@@ -1,0 +1,223 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Jun 18 13:38:21 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22854 26157 221347 504000) (desktop . "208") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DEDEDE") (background-color . "#1E2326") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 100 100) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#FFFAAA") (environment) (frameset--id . "B34F-251C-7FE4-41A7") (frameset--mini t . t) (height . 46) (width . 150) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 16) (icon-name) (visibility . t) (display . ":0.0") (explicit-name)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 176) (min-pixel-width . 110) (min-pixel-height-ignore . 88) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 44) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1004) (total-width . 152) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 608) (total-width . 152) (total-height . 28) (normal-height . 0.6095617529880478) (normal-width . 1.0) (buffer "index.c" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 56346) (start . 55728))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 396) (total-width . 152) (total-height . 18) (normal-height . 0.3904382470119522) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1364) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("ag " "helm" "evil-ner" "helm-swoo"))
+(setq regexp-search-ring '("" "db" "not avail" "achtung" "not avail" "dbdir" "not avail" "geoeffnet" "" "stcop" "achtung" "not avail" "rName" "not avail" "dbdir" "stcopy"))
+(setq register-alist '((48 . "./acon -jal -d/var/data/catalog -bcat -ka")))
+(setq file-name-history '("/home/rtb/doks/cusanus/a35v2/allegro/al.job" "/home/rtb/doks/cusanus/a35v2/allegro/org.bat" "/home/rtb/doks/cusanus/svn/atools/trunk/acore.c" "/home/rtb/doks/cusanus/svn/atools/trunk/compil.c" "/home/rtb/doks/cusanus/linuxa35/test.sh" "/home/rtb/doks/cusanus/svn/atools/trunk/qrix.c" "/home/rtb/doks/cusanus/svn/atools/trunk/index.c" "/home/rtb/doks/cusanus/svn/atools/trunk/README" "/home/rtb/doks/cusanus/linuxa35/uif7ger" "/home/rtb/hask/" "/home/rtb/todo.org" "/home/rtb/doks/cusanus/a35v2/www/db/scripts/a35.js.max" "/home/rtb/doks/cusanus/allegro-urts99/allegro/bvtkk/" "/home/rtb/todo.org" "/home/rtb/tod" "/home/rtb/doks/cusanus/a35v2/allegro/demo2/users/rtb" "/home/rtb/doks/cusanus/allegro-urts99/avanti/etc/avanti.conf" "/home/rtb/doks/cusanus/allegro-urts99/" "/home/rtb/.emacs" "/home/rtb/doks/cusanus/allegro-urts99/cgi-bin/" "/home/rtb/pyth/bibserver-official/bibserver/templates/home/index.html" "/home/rtb/pyth/bibserver-official/bibserver/search.py" "/home/rtb/pyth/bibserver-official/bibserver/static/vendor/facetview/jquery.facetview.js" "/home/rtb/pyth/bibserver-official/bibserver/web.py" "/home/rtb/pyth/bibserver-official/" "/home/rtb/pyth/bibserver-official/setup.py" "/home/rtb/pyth/bibserver/bibserver/default_settings.py" "/home/rtb/pyth/bibserver/config.json" "/home/rtb/pyth/bibserver/bibserver/__init__.py" "/home/rtb/pyth/bibserver/bibserver/dao.py" "/home/rtb/pyth/bibserver/bibserver/web.py" "/home/rtb/todo.org" "/home/rtb/doks/mausi/pholignite/mongo_uber.txt" "/home/rtb/todo.org" "/home/rtb/doks/mausi/pholignite/updateSiteMap.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io/lib/namespace.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-adapter/index.js" "/home/rtb/doks/mausi/pholignite/src/css/test_autoprefixer.js" "/home/rtb/doks/mausi/pholignite/webpack.prod.config.js" "/home/rtb/doks/mausi/pholignite/src/css/tach-purified.css" "/home/rtb/doks/mausi/pholignite/src/js/admin.js" "/home/rtb/doks/mausi/pholignite/src/" "/home/rtb/doks/mausi/pholignite/src/js/agb.js" "/home/rtb/doks/mausi/pholignite/src/js/kontakt-impressum.js" "/home/rtb/doks/mausi/pholignite/bs-config.js" "/home/rtb/doks/mausi/pholignite/src/js/menu.js" "/home/rtb/doks/mausi/tachyons/src/_skins-pseudo.css" "/home/rtb/doks/mausi/tachyons/src/" "/home/rtb/doks/mausi/pholignite/" "/home/rtb/doks/mausi/pholignite/tachyon/prototype.html" "/home/rtb/doks/mausi/pholignite/node_modules/mithril-validator/mithril.validator.js" "/home/rtb/hask/fmap.hs" "/home/rtb/doks/mausi/pholignite/src/js/anfahrt.js" "/home/rtb/doks/mausi/pholignite/src/js/order_form_rules.js" "/home/rtb/doks/mausi/pholignite/src/js/inputGrid.js" "/home/rtb/doks/mausi/pholignite/node_modules/mithril-node-render/index.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/" "/home/rtb/doks/mausi/pholignite/src/js/input.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment/moment.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/" "/home/rtb/doks/mausi/pholignite/conf/nginx.conf" "/home/rtb/doks/mausi/pholignite/conf/nginx.conf.default" "/home/rtb/doks/mausi/pholignite/node_modules/express-ws/" "/home/rtb/doks/mausi/pholignite/mongo_uber.txt" "/home/rtb/doks/mausi/pholignite/views/main.html" "/home/rtb/doks/mausi/pholignite/models/orders_model.js" "/home/rtb/doks/mausi/pholignite/serve/main-view.html" "/home/rtb/js/mithril-purescript-demo/test.js" "/home/rtb/js/mithril-purescript-demo/output/" "/home/rtb/js/mithril-purescript-demo/readme.md" "/home/rtb/js/pulp-test/.psci" "/home/rtb/tmp/mithril025.js" "/home/rtb/js/mithril-purescript-demo/index.html" "/home/rtb/js/mithril-purescript-demo/bower.json" "/home/rtb/js/mithril-purescript-demo/src/Mithril.js" "/home/rtb/js/mithril-purescript-demo/src/Mithril.purs" "/home/rtb/js/mithril-purescript-demo/src/Main.purs" "/home/rtb/js/mithril-purescript-demo/output.js" "/home/rtb/js/mithril-starter/site/config/environment/production.js" "/home/rtb/js/mithril-starter/build/app.js" "/home/rtb/js/mithril-starter/npm-debug.log" "/home/rtb/js/mithril-starter/" "/home/rtb/js/mithril-starter/shared/email_validation.js" "/home/rtb/js/mithril-starter/node_modules/bootswatch/" "/home/rtb/js/mithril-starter/package.json" "/home/rtb/js/mithril-starter/webpack/webpack.config.production.js" "/home/rtb/js/mithril-starter/node_modules/browser-sync/index.js" "/home/rtb/js/mithril-starter/node_modules/chokidar/index.js" "/home/rtb/.emacs" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/site/mockPost.js" "/home/rtb/.emacs.d/elpa/solarized-theme-20150308.128/solarized-dark-theme.el" "/home/rtb/.emacs.d/elpa/solarized-theme-20150308.128/solarized.el" "/home/rtb/.emacs.d/elm-presti.desktop" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/server/index.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/server/pages/user/userModel.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/site/seedPost.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/doks/mausi/pholignite/application/config/autoload.php"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/svn/atools/trunk/index.c"
+  "index.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  56346
+  '(56346 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (56346 56346 56346 56346 56346 56346 8966 8374 6807 5033 56259 56259 56351 14939 132 55452))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/svn/atools/trunk/README"
+  "README"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  13906
+  '(13906 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (13906))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/svn/atools/trunk/acore.c"
+  "acore.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  21036
+  '(21036 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (27622 21359 19979 18816 17679 15261 13877 4246 4246))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/linuxa35/test.sh"
+  "test.sh"
+  'sh-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  117
+  '(117 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (75 80))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/svn/atools/trunk/compil.c"
+  "compil.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4806
+  '(4806 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4611 4611 5414 5414 5414 537))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/svn/atools/trunk/qrix.c"
+  "qrix.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  5594
+  '(5594 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . japanese-shift-jis-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (70821 70821 1 70859 11288 11288 11288 11288 11015 11005 11005 11005 11005 4267 4267))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/www/db/scripts/a35.js.max"
+  "a35.js.max"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3924
+  '(2902 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2902 2902 25084 25084 6587 1))))
+
+(desktop-create-buffer 208
+  nil
+  "bvtkk"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode text-scale-mode)
+  45
+  '(45 nil)
+  t
+  '("/home/rtb/doks/cusanus/allegro-urts99/allegro/bvtkk/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/www/db/scripts/jobs/a35erg.job"
+  "a35erg.job"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4382
+  '(4382 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4381 4381 754 4298 3488 3488 3488 3488 3488 4307 4307))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/www/db/bvtkk/a35ini.php"
+  "a35ini.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1962
+  '(1962 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (fill-column . 78) (case-fold-search . t) (truncate-lines))
+  '((mark-ring (1962 1962 1962 495 531))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/www/db/ajax4.php"
+  "ajax4.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  575
+  '(575 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (fill-column . 78) (case-fold-search . t) (truncate-lines))
+  '((mark-ring (575 575 1489 1489 3600 4996 5919 6838 7849 7849 7849 7849 1791 1791 569 1091))))
+
+(desktop-create-buffer 208
+  nil
+  "allegro"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  532
+  '(nil nil)
+  t
+  '("/home/rtb/doks/cusanus/a35v2/allegro/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/allegro/demo2/users/rtb"
+  "rtb"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  14
+  '(14 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (14 14))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/allegro/demo2/users/README"
+  "README"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  798
+  '(798 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (798))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/www/db/scripts/jobs/a35id.job"
+  "a35id.job"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1268
+  '(1268 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1268 1268 1268 1155 1155 3070 3070 4094 4094))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/a35v2/allegro/avanti.con"
+  "avanti.con"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1421
+  '(747 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (747 747 747 747 747 747 747 747 747))))
+
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/allegro-urts99/avanti/etc/avanti.conf"
+  "avanti.conf"
+  'conf-unix-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  874
+  '(874 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1))))
+

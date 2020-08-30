@@ -1,0 +1,26 @@
+;; ------------------------------------------------------------
+;; Desktop Files for Emacs in directory /home/rtb/.emacs.d/desktops
+;; ------------------------------------------------------------
+;; Created Sun Dec 10 15:17:02 2017
+;; Emacs version 25.3.1
+
+(setq desktop-menu--desktops
+      (list
+       '("Default" ".emacs.desktop")
+       '("No Name" ".emacs.desktop13")
+       '("No Name" ".emacs.desktop14")
+       '("Urblog" ".emacs.desktop4")
+       '("bibserver" ".emacs.desktop12")
+       '("clojure" ".emacs.desktop7")
+       '("elm-januar2016" ".emacs.desktop9")
+       '("elm-lang.org" ".emacs.desktop1")
+       '("elm-presti" "elm-presti.desktop")
+       '("elm-test" "elm-test.desktop")
+       '("gf" ".emacs.desktop6")
+       '("hs-spock-test" ".emacs.desktop2")
+       '("js" ".emacs.desktop3")
+       '("koze" ".emacs.desktop5")
+       '("muendliche" ".emacs.desktop10")
+       '("snap-elm-test" ".emacs.desktop8")
+       '("web-dev" ".emacs.desktop11")
+       ))

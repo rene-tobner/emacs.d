@@ -1,0 +1,1691 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Nov 20 11:02:25 2017
+;; Desktop file format version 206
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23058 43057 103267 132000) (desktop . "208") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#93a1a1") (background-color . "#000F14") (mouse-color . "black") (border-color . "orange") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 100 100) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#3748A0") (environment) (visibility . t) (frameset--id . "5463-9618-D21D-6583") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (height . 44) (width . 150) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 184) (min-pixel-width . 110) (min-pixel-height-ignore . 92) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 46) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1003) (total-width . 152) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 566) (total-width . 152) (total-height . 25) (normal-height . 0.5687936191425723) (normal-width . 1.0) (buffer "index.js|phol-get-other-data" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 8325) (start . 7652))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 437) (total-width . 152) (total-height . 19) (normal-height . 0.4312063808574277) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1452) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("getting" "request" "test" "holid" "cp" "findone" "todo" "travelcar" "magit" "re" "change" "stage" "subjec" "testing" "no mails" "node_env"))
+(setq register-alist '((107) (105) (113) (48 . "aech5Eesoo")))
+(setq file-name-history '("/home/rtb/doks/mausi/pholignite/phol-get-other-data/MU0419111712_49.csv" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/TravelCar API En.docx" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/travelcar-parks.csv" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/20171114_201439_PPB038V-B00745_B.csv" "/home/rtb/doks/mausi/pholignite/node_modules/libmime/lib/mimetypes.js" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/PPB-Spezifikation_CSV_Exportdatei_v1.5.pdf" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/NOTIZ-ppboerse-spezifikation.txt" "/home/rtb/doks/mausi/pholignite/node_modules/mailcomposer/lib/mailcomposer.js" "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/package.json" "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/lib/nodemailer.js" "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/README.md" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/MU0417111709_48.csv" "/home/rtb/doks/mausi/pholignite/node_modules/sshpk/lib/algs.js" "/home/rtb/doks/mausi/pholignite/node_modules/sshpk/package.json" "~/doks/mausi/pholignite/phol-get-other-data/get-ppboerse.js" "~/doks/mausi/pholignite/util/index.js" "/home/rtb/Downloads/MU0417111709_48.csv" "/home/rtb/.emacs.d/elpa/js2-mode-20171107.333/" "/usr/bin/eslint" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/get-ppboerse.js" "/home/rtb/doks/mausi/pholignite/.eslintrc" "~/doks/mausi/pholignite/phol-get-other-data/index.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/model.js" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/package.json" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/document.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/serve/font/phs-symbols.woff" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "~/doks/mausi/pholignite/webpack.config.js" "~/doks/mausi/pholignite/phol-get-other-data/collect-config.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/lib/index.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/package.json" "/home/rtb/doks/mausi/pholignite/serve/js/admin-bundle.js" "/home/rtb/doks/mausi/pholignite/node_modules/json3/lib/json3.js" "/home/rtb/doks/mausi/pholignite/node_modules/json3/README.md" "~/doks/mausi/pholignite/send-email.js" "/home/rtb/doks/mausi/pholignite/send-email.js" "/home/rtb/doks/mausi/pholignite/conf/node-mailer.conf.json" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/holiday-extra-MU0409101710-33.csv" "~/doks/mausi/pholignite/phol-get-other-data/NOTIZ-ppboerse-spezifikation.txt" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/font/phs-symbols.ttf" "/home/rtb/doks/mausi/pholignite/bs-config.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/js/admin-bundle.js" "/home/rtb/doks/mausi/pholignite/webpack.config.js" "/home/rtb/doks/mausi/pholignite/webpack.config-node.js" "/home/rtb/doks/mausi/pholignite/node_modules/mithril/mithril.js" "/home/rtb/doks/mausi/pholignite/node_modules/babel-loader/README.md" "/home/rtb/doks/mausi/pholignite/node_modules/seamless-immutable/src/seamless-immutable.js" "/home/rtb/doks/mausi/pholignite/node_modules/immutable-list/dist/list.js" "/home/rtb/doks/mausi/pholignite/node_modules/" "/home/rtb/doks/mausi/pholignite/node_modules/babel" "/home/rtb/doks/mausi/pholignite/.babelrc" "/home/rtb/doks/mausi/pholignite/node_modules/immutable-list/src/list.js" "/home/rtb/js/flyd/flyd.js" "/home/rtb/js/flyd/module/" "/home/rtb/doks/mausi/pholignite/node_modules/ramda/src/map.js" "/home/rtb/js/flyd/module/obj/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/flyd/module/obj/index.js" "/home/rtb/js/rtb-dot-lens/index.js" "/home/rtb/js/rtb-dot-lens/package.json" "/home/rtb/js/rtb-dot-lens/test/lens.js" "/home/rtb/js/rtb-dot-lens/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/test/dot.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/Readme.md" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/History.md" "/home/rtb/doks/mausi/pholignite/src/js/preise.js" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/collect-config.js" "/home/rtb/doks/mausi/pholignite/node_modules/flyd/module/forwardto/test/index.js" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/css/mithril-checkbox.css" "/home/rtb/doks/mausi/pholignite/src/js/mithril-checkbox/src/mithril-checkbox.scss" "/home/rtb/doks/mausi/pholignite/node_modules/lodash/" "/home/rtb/js/mithril-isomorphic-example/server.js" "/home/rtb/js/basic-isomorphic-app/dist/bundle.js" "/home/rtb/js/basic-isomorphic-app/node_modules/watch/cli.js" "/home/rtb/js/basic-isomorphic-app/client/content.js" "/home/rtb/js/basic-isomorphic-app/client/index.js" "/home/rtb/js/basic-isomorphic-app/package.json" "/home/rtb/js/basic-isomorphic-app/node_modules/watch/cli.js" "/home/rtb/doks/politik-schmied/politik-schmied.json" "/home/rtb/ocaml/irmin-test/test2.ml" "/home/rtb/ocaml/irmin/examples/config.ml" "/home/rtb/doks/mausi/pholignite/serve/sitemap.xml" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/package.json" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/NOTIZ-ppboerse-spezifikation.txt" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/NOTIZ-ppcheck.json" "/home/rtb/doks/mausi/pholignite/conf/get-other-data-secrets.js" "/home/rtb/doks/mausi/pholignite/serve/js/admin-bundle.js.gz" "/home/rtb/doks/mausi/pholignite/src/css/tach-purified-autoprefixed.css" "/home/rtb/doks/mausi/pholignite/node_modules/moment/locale/de.js" "/home/rtb/doks/mausi/pholignite/util/index.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/builds/moment-timezone-with-data-2012-2022.js" "/home/rtb/tus/salmanca/s6_0043a_zi.txt"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode text-scale-mode)
+  8325
+  '(8325 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/mongo_uber.txt"
+  "mongo_uber.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  658
+  '(658 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/models/orders_model.js"
+  "orders_model.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3231
+  '(3231 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/get-ppboerse.js"
+  "get-ppboerse.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode text-scale-mode)
+  9347
+  '(9347 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/transform_incoming.js"
+  "transform_incoming.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode text-scale-mode)
+  9373
+  '(9373 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/MU0419111712_49.csv"
+  "MU0419111712_49.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/send-test-mail.js"
+  "send-test-mail.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  3
+  '(1211 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  85
+  '(85 nil)
+  t
+  '("/home/rtb/js/flyd/lib/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/send-email.js"
+  "send-email.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7900
+  '(7900 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/MU0417111709_48.csv"
+  "MU0417111709_48.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode whitespace-mode)
+  256
+  '(256 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/20171114_201439_PPB038V-B00745_B.csv"
+  "20171114_201439_PPB038V-B00745_B.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  519
+  '(519 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mailcomposer/lib/mailcomposer.js"
+  "mailcomposer.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  78
+  '(78 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/libmime/lib/mimetypes.js"
+  "mimetypes.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  38879
+  '(38879 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/NOTIZ-ppboerse-spezifikation.txt"
+  "NOTIZ-ppboerse-spezifikation.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  84690
+  '(9945 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/lib/nodemailer.js"
+  "nodemailer.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  368
+  '(368 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/nodemailer/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  721
+  '(721 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/conf/node-mailer.conf.json"
+  "node-mailer.conf.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  15
+  '(15 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/admin.js"
+  "admin.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1191
+  '(1191 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/MU0417111709_48.csv"
+  "MU0417111709_48.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  167
+  '(167 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/js2-mode-20171107.333/js2-mode.el"
+  "js2-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  8416
+  '(8416 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/nodejs-repl-20170722.443/nodejs-repl.el"
+  "nodejs-repl.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  14309
+  '(14309 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/sshpk/lib/algs.js"
+  "algs.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1037
+  '(1037 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/calc.js"
+  "calc.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  406
+  '(406 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/sshpk/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  406
+  '(406 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/util/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1885
+  '(1885 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/.eslintrc"
+  ".eslintrc"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  431
+  '(431 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/model/ClientBuchung.js"
+  "ClientBuchung.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  9798
+  '(9798 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/collect-config.js"
+  "collect-config.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4370
+  '(4370 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js"
+  "1-kfz-to-kfzsArrayofObjects.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  161
+  '(161 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/server.js"
+  "server.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1699
+  '(1699 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/buchung.js"
+  "buchung.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/routes.js"
+  "routes.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7867
+  '(7867 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/socket.js"
+  "socket.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/document.js"
+  "document.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2365
+  '(2365 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/model.js"
+  "model.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2687
+  '(2687 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/package.json"
+  "package.json"
+  'js-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  359
+  '(359 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/css/tach-purified.css"
+  "tach-purified.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  8145
+  '(8145 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/tachyons/css/tachyons.css"
+  "tachyons.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  23733
+  '(23733 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/webpack.config.js"
+  "webpack.config.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  475
+  '(475 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/views/main.html"
+  "main.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7198
+  '(7198 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/inputGrid.js"
+  "inputGrid.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  533
+  '(533 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/phol.js"
+  "phol.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  503
+  '(503 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/conf/get-other-data-secrets.js"
+  "get-other-data-secrets.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  143
+  '(143 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode org-indent-mode smartparens-mode)
+  14777
+  '(14777 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/lib/socket.js"
+  "socket.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3019
+  '(281 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/lib/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  206
+  '(206 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/holiday-extra-MU0409101710-33.csv"
+  "holiday-extra-MU0409101710-33.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  116
+  '(116 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/helm-ag-20170209.745/helm-ag.el"
+  "helm-ag.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  8158
+  '(8158 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/input.js"
+  "input.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  13053
+  '(13053 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/mithril.validator.js"
+  "mithril.validator.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3139
+  '(3139 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/purify.js"
+  "purify.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  150
+  '(150 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/module/scanmerge/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1011
+  '(1011 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/bs-config.js"
+  "bs-config.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1755
+  '(1755 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/webpack.prod.config.js"
+  "webpack.prod.config.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  667
+  '(667 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-isomorphic-example/server/web.js"
+  "web.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  182
+  '(182 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mithril/mithril.js"
+  "mithril.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  26227
+  '(18635 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/order_form_rules.js"
+  "order_form_rules.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3794
+  '(3794 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/.babelrc"
+  ".babelrc"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  64
+  '(64 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/module/obj/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  809
+  '(809 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/flyd.js"
+  "flyd.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  15769
+  '(15769 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/module/previous/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  35
+  '(35 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/lib/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1072
+  '(1072 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/flyd/module/diff/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  183
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "sampleon"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  148
+  '(nil nil)
+  t
+  '("/home/rtb/js/flyd/module/sampleon/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "flatmap"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  147
+  '(nil nil)
+  t
+  '("/home/rtb/js/flyd/module/flatmap/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  4880
+  '(4880 nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/node_modules/ramda/src/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/ramda/src/map.js"
+  "map.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2046
+  '(15 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/rtb-dot-lens/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/rtb-dot-lens/test.js"
+  "test.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  98
+  '(98 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/rtb-dot-lens/node_modules/flyd/module/obj/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  35
+  '(35 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/rtb-dot-lens/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1487
+  '(1487 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/rtb-dot-lens/test/lens.js"
+  "lens.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  228
+  '(228 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/preise.js"
+  "preise.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1575
+  '(1575 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mithril-validator/mithril.validator.js"
+  "mithril.validator.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1034
+  '(1034 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/serve/css/mithril-checkbox.css"
+  "mithril-checkbox.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  65
+  '(65 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/mithril-checkbox.js"
+  "mithril-checkbox.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3076
+  '(3076 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-isomorphic-example/server/rest.js"
+  "rest.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  48
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-isomorphic-example/server.js"
+  "server.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  585
+  '(585 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/basic-isomorphic-app/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  426
+  '(426 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/basic-isomorphic-app/node_modules/watch/cli.js"
+  "cli.js"
+  'js-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1666
+  '(1666 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/basic-isomorphic-app/client/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  57
+  '(57 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/basic-isomorphic-app/client/content.js"
+  "content.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  348
+  '(348 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/politik-schmied/politik-schmied.json"
+  "politik-schmied.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ocaml/irmin-test/test2.ml"
+  "test2.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode company-mode merlin-mode)
+  28
+  '(28 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ocaml/irmin/examples/config.ml"
+  "config.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode company-mode merlin-mode)
+  31
+  '(31 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/serve/sitemap.xml"
+  "sitemap.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/models/user.js"
+  "user.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  71
+  '(71 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/passport.js"
+  "passport.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  841
+  '(841 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/package.json"
+  "package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  430
+  '(430 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/views/admin.html"
+  "admin.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  5415
+  '(5415 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "fp"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  11770
+  '(11770 nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/node_modules/lodash/fp/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/lodash/fp/take.js"
+  "take.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  86
+  '(86 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/lodash/seq.js"
+  "seq.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  52
+  '(52 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/20170703_162642_PPB038V-B00191_B.csv"
+  "20170703_162642_PPB038V-B00191_B.csv"
+  'csv-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  597
+  '(597 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/imap/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4262
+  '(4262 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  493
+  '(493 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/imap/lib/Connection.js"
+  "Connection.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  258
+  '(258 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/imap-simple/lib/imapSimple.js"
+  "imapSimple.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3020
+  '(3020 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/imap-simple/test/index.spec.js"
+  "index.spec.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  621
+  '(621 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/imap-simple/lib/helpers/getMessage.js"
+  "getMessage.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1821
+  '(1821 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "imap-simple"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  121
+  '(121 nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/node_modules/imap-simple/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "conf"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  281
+  '(281 nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/conf/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/mongoose_init.js"
+  "mongoose_init.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  113
+  '(113 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/css/test_autoprefixer.js"
+  "test_autoprefixer.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  317
+  '(317 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tmp/mithril025.js"
+  "mithril025.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  38130
+  '(38130 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/email/order_abgelehnt.html"
+  "order_abgelehnt.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  11
+  '(11 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/email/order_eingang.html"
+  "order_eingang.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  444
+  '(444 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/email/order_bestaetigt.html"
+  "order_bestaetigt.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  438
+  '(438 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  844
+  '(844 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/tachyons/css/extract_classes.el"
+  "extract_classes.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  29
+  '(29 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "css"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  99
+  '(99 nil)
+  t
+  '("/home/rtb/doks/mausi/tachyons/css/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/agb.js"
+  "agb.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  74
+  '(74 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/menu.js"
+  "menu.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  583
+  '(583 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/anfahrt.js"
+  "anfahrt.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  194
+  '(194 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/tachyon/prototype.html"
+  "prototype.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3679
+  '(3679 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/src/js/kontakt-impressum.js"
+  "kontakt-impressum.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  514
+  '(514 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/svg-transform.css"
+  "svg-transform.css"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  271
+  '(759 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/fmap.hs"
+  "fmap.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  127
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-test/mith-test2.js"
+  "mith-test2.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  861
+  '(763 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-test/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  287
+  '(81 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-test/test.js"
+  "test.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "mithril-test"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  201
+  '(nil nil)
+  t
+  '("/home/rtb/js/mithril-test/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/mithril-node-render/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  791
+  '(1424 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "moment-timezone"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  386
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment/moment.js"
+  "moment.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  51488
+  '(18970 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "builds"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  133
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/builds/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment/src/lib/locale/prototype.js"
+  "prototype.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1875 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/moment-timezone.js"
+  "moment-timezone.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  902
+  '(13800 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/data/unpacked/latest.json"
+  "latest.json"
+  'js-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode flymake-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1421321
+  '(1415132 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/conf/nginx.conf"
+  "nginx.conf"
+  'conf-space-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  50
+  '(972 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/conf/nginx.conf.default"
+  "nginx.conf.default"
+  'conf-space-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2655
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-starter/server/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1042
+  '(516 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "js"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  154
+  '(nil nil)
+  t
+  '("/home/rtb/doks/mausi/pholignite/serve/js/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/mithril-starter/node_modules/chokidar/index.js"
+  "index.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4169
+  '(2556 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/examples/navbar-fixed-top/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4214
+  '(34 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/.htaccess"
+  ".htaccess"
+  'apache-mode
+  '(visual-line-mode undo-tree-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  163
+  '(673 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/dist/css/bootstrap.css"
+  "bootstrap.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  53094
+  '(51257 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/less/dropdowns.less"
+  "dropdowns.less"
+  'less-css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1643
+  '(150 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/bower_components/mithril/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1209
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/dist/js/bootstrap.js"
+  "bootstrap.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  53508
+  '(564 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/node_modules/jquery/dist/jquery.js"
+  "jquery.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  102723
+  '(726 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/bower_components/mithril/mithril.js"
+  "mithril.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  389
+  '(55126 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/bower_components/mithril/mithril.min.js"
+  "mithril.min.js"
+  'js2-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  137
+  '(90 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/bower.json"
+  "bower.json"
+  'js-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode flymake-mode auto-revert-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  224
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "google"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  81
+  '(nil nil)
+  t
+  '("/home/rtb/google/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "docs"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  107
+  '(nil nil)
+  t
+  '("/home/rtb/Downloads/bootstrap-3.3.6/docs/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/bootstrap-3.3.6/docs/_data/glyphicons.yml"
+  "glyphicons.yml"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  124
+  '(1544 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/PPB-Spezifikation_CSV_Exportdatei_v1.5.pdf"
+  "PPB-Spezifikation_CSV_Exportdatei_v1.5.pdf"
+  'doc-view-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1
+  '(nil nil)
+  t
+  '((page . 2) (slice))
+  '((buffer-file-coding-system . no-conversion) (truncate-lines)))
+

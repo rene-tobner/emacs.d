@@ -1,0 +1,184 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Aug 17 22:26:27 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21970 17267 289363 293000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 11") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#93a1a1") (environment) (frameset--id . "4AC5-723C-3033-1C0F") (frameset--mini t . t) (height . 58) (width . 95) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 16) (icon-name) (visibility . t) (display . ":0.0") (explicit-name)) ((min-height . 12) (min-width . 10) (min-height-ignore . 12) (min-width-ignore . 6) (min-height-safe . 3) (min-width-safe . 2) (min-pixel-height . 216) (min-pixel-width . 90) (min-pixel-height-ignore . 216) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 54) (min-pixel-width-safe . 18)) vc (pixel-width . 894) (pixel-height . 1038) (total-width . 99) (total-height . 58) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 894) (pixel-height . 518) (total-width . 99) (total-height . 29) (normal-height . 0.5) (normal-width . 1.0) (buffer "*snap-elm-test*" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 9486) (start . 8841))) (leaf (pixel-width . 894) (pixel-height . 266) (total-width . 99) (total-height . 15) (normal-height . 0.25003347691208966) (normal-width . 1.0) (buffer "Site.hs" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1506) (start . 1297))) (leaf (last . t) (pixel-width . 894) (pixel-height . 254) (total-width . 99) (total-height . 14) (normal-height . 0.24996652308791037) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1013) (start . 138)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("‘ºÜ" "^'" "\\^'" "orcheœô¡¿tra"))
+(setq regexp-search-ring '("\\<registerUser\\>" "\\<handleNewUser\\>" "loginUser" "AuthManager" "\\<handleLoginSubmit\\>" "with" "app" "logout" "snap" "lens" "liftm" "lens" "\\^#" "snaplet" "mysql" "add"))
+(setq register-alist '((113) (107) (48 . "import           Snap.Snaplet.Heist\n")))
+(setq file-name-history '("/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/src/Snap/Snaplet/Auth/Backends/MysqlSimple.hs" "/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/src/Snap/Snaplet/MysqlSimple.hs" "/home/rtb/hask/snap/snap-elm-test/src/Part2.lhs" "/home/rtb/hask/snap/snap-elm-test/src/Tutorial.lhs" "/home/rtb/hask/snap/snap-elm-test/cabal.sandbox.config" "~/hask/snap/snap-elm-test/" "~/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/" "/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/src/Snap/Snaplet/Auth/Backends/MysqlSimple.hs" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.cabal" "/home/rtb/hask/snap/snap-elm-test/cabal.sandbox.config" "/home/rtb/hask/snap/snap-elm-test/src/Site.hs" "/home/rtb/hask/snap/snap-elm-test/src/Application.hs" "~/hask/snap/snap-elm-test/" "/home/rtb/hask/snap/snap-elm-test/src/Main.hs" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.hs" "~/hask/snap/snap-elm-test/" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.cabal" "~/hask/snap/snap-elm-test/" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.hs" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.cabal" "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.hs" "/home/rtb/pyth/emma/emmalib/mysql_db.py" "/home/rtb/pyth/emma/emmalib/mysql_table.py" "emma/" "/home/rtb/doks/psycho/htdocs/emma" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/database.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/config.php" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/sysu/Assign_4.gf" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/ResChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/common/ConstructX.gf" "/home/rtb/doks/new_mag/example-code/Food/Food.gf" "/home/rtb/doks/nlp/GF-source/Makefile" "/home/rtb/doks/nlp/GF-source/src/compiler/GF/Compile/TypeCheck/Primitives.hs" "/home/rtb/doks/nlp/GF-source/lib/src/prelude/Predef.gf" "~/doks/nlp/GF-source/lib/src/prelude/Prelude.gf" "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/DeclEngRes.gf" "~/doks/new_mag/example-code/leiss/Beispiele/DeclEng.gfr" "/home/rtb/doks/new_mag/example-code/Food/FoodGer.gf" "~/doks/new_mag/example-code/Zero.gf" "/home/rtb/doks/new_mag/mag.tex" "/home/rtb/doks/mag/mag.org" "/home/rtb/doks/new_mag/mag.tex" "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/Nat.gf" "/home/rtb/doks/new_mag/example-code/word-align-ger-chi.dot" "/home/rtb/doks/new_mag/example-code/ZeroGer.gf" "/home/rtb/doks/new_mag/example-code/hello-giza" "/home/rtb/doks/new_mag/example-code/zh_test.dot" "/home/rtb/doks/new_mag/example-code/_grph.dot" "/home/rtb/doks/new_mag/misc/translit_westernNames_elements.csv" "/home/rtb/todo.org" "/home/rtb/.emacs" "/home/rtb/doks/mag/mag.org" "/home/rtb/doks/nlp/GF-source/lib/src/translator/Dictionary.gf" "/home/rtb/.emacs.d/plugins/eim/py.txt" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/eng_chi2.txt" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/chinese-log.txt" "/home/rtb/Downloads/chinese/pinyin.txt" "/home/rtb/.emacs" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/from_en_wiki/_grph.dot" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/from_en_wiki/Love.gf" "/home/rtb/.emacs" "/home/rtb/doks/nlp/GF-source/lib/src/abstract/Common.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/ResIta.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/FoodsIta.gf" "/home/rtb/doks/nlp/GF-source/lib/src/common/CommonX.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/Foods.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-2/BinaryOperators.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-2/BinaryOperatorsImpl.gf" "/home/rtb/todo.org" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BinaryOperatorsImpl.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BinaryOperators.gf" "/home/rtb/php/Php.g" "/home/rtb/doks/nlp/GF-source/src/runtime/haskell/PGF/CId.hs" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-4/FoodGerman.gf" "/home/rtb/doks/nlp/GF-source/src/runtime/haskell/PGF.hs" "/home/rtb/doks/nlp/GF-source/src/runtime/haskell/PGF/Binary.hs" "/home/rtb/doks/nlp/GF-source/src/runtime/haskell/PGF.hs" "/home/rtb/doks/nlp/GF-source/doc/index.html" "/home/rtb/doks/nlp/GF-source/README" "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/ReverseLang.hs" "/home/rtb/.vimperator/colors/darkness.vimp" "/home/rtb/src/firefox/release/addon-sdk/source/lib/sdk/ui/toolbar/view.js" "/home/rtb/src/firefox/release/addon-sdk/source/lib/sdk/ui/toolbar/model.js" "/home/rtb/todo.org" "/home/rtb/.mozilla/firefox/profiles.ini" "/home/rtb/.vimperatorrc" "/home/rtb/doks/nlp/gf-ressource/copyLang/copy.dot" "/home/rtb/doks/nlp/GF-source/src/compiler/GF/Server.hs" "/home/rtb/doks/nlp/GF-source/src/compiler/GF/Haskell.hs" "/home/rtb/doks/nlp/GF-source/examples/app/README" "/home/rtb/doks/new_mag/mag.org" "/home/rtb/gf/copyLang/CopyAbs.gf" "/home/rtb/gf/copyLang/Copy.gf" "~/koze-todo.org" "/home/rtb/google/client_secret_680808425312-tkmrksn5ajc0mr8pk1hk3hrgv008cjuo.apps.googleusercontent.com.json" "request-deferred.el" "/home/rtb/.xinitrc" "/home/rtb/.cabal/share/x86_64-linux-ghc-7.8.4/hyphenation-0.4.2/hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/patch-hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/hyphenation-0.4/src/Text/Hyphenation/Hyphenator.hs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/src/Site.hs"
+  "Site.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  1506
+  '(2245 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/src/Application.hs"
+  "Application.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  905
+  '(451 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.cabal"
+  "snap-elm-test.cabal"
+  'haskell-cabal-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  1
+  '(381 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/src/Snap/Snaplet/Auth/Backends/MysqlSimple.hs"
+  "MysqlSimple.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode haskell-indentation-mode)
+  903
+  '(898 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/src/Snap/Snaplet/MysqlSimple.hs"
+  "MysqlSimple.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  2020
+  '(2020 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "snap-elm-test"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  254
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/snap-elm-test/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  102
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/snap-elm-test/src/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snaplet-mysql-simple-0.2.1.0/resources/auth/devel.cfg"
+  "devel.cfg"
+  'conf-unix-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  680
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/src/Main.hs"
+  "Main.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  4792
+  '(4439 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/src/Tutorial.lhs"
+  "Tutorial.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  12585
+  '(13170 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/src/Part2.lhs"
+  "Part2.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode haskell-indentation-mode)
+  67
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  ".cabal-sandbox"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  161
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/snap-elm-test/.cabal-sandbox/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "snap"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  145
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.hs"
+  "snap-elm-test.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode haskell-indentation-mode)
+  1376
+  '(1354 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/cabal.sandbox.config"
+  "cabal.sandbox.config"
+  'conf-colon-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  831
+  '(838 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

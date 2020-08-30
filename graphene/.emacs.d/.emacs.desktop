@@ -1,0 +1,217 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Mar 15 23:48:05 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("highlight-sym" "layout" "elscreen"))
+(setq regexp-search-ring '("motion" "get-alist" "layout" "elisp" "layout" "bar-mode" "menu-bar" "other-window" "tab" "desktop"))
+(setq register-alist (list '(107) '(113) '(106) (desktop-list* 100 (vector 'registerv (vector [frameset 1 (21763 26043 806592 863000) register nil nil nil ((((font-backend xft) (font-parameter . "DejaVu Sans Mono-10") (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (buffer-predicate) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "white") (frameset--id . "6ED9-2508-4581-D9FE") (frameset--mini t) (height . 70) (width . 237) (modeline . t) (minibuffer . t) (unsplittable) (buffer-list "Unprintable entity") (buried-buffer-list "Unprintable entity") (left . 0) (top . 16) (window-id . "60818531") (outer-window-id . "60818527") (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (parent-id)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 80) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 15) (min-pixel-width-safe . 16)) leaf (pixel-width . 1912) (pixel-height . 1041) (total-width . 239) (total-height . 69) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend xft) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter . "DejaVu Sans Mono-10") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (buffer-predicate) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (window-system . x) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (frameset--id . "B8A1-A52B-B020-1997") (frameset--mini t . t) (height . 70) (width . 237) (modeline . t) (minibuffer . t) (unsplittable) (buffer-list) (buried-buffer-list "Unprintable entity") (window-id . "60817523") (outer-window-id . "60817519") (icon-name) (visibility . icon) (display . ":0.0") (explicit-name) (parent-id)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 80) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 15) (min-pixel-width-safe . 16)) leaf (pixel-width . 1912) (pixel-height . 1041) (total-width . 239) (total-height . 69) (normal-height . 1.0) (normal-width . 1.0) (buffer "*Packages*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 232842) (start . 230050))))] "6ED9-2508-4581-D9FE" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,1 (get-buffer ,"*scratch*")))) mk)) "Unprintable entity" 'frameset--jump-to-register nil)) '(246) '(48 . "(require 'idle-highlight-mode)\n")))
+(setq file-name-history '("/home/rtb/.emacs" "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/auto-highlight-symbol.el" "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/auto-highlight-symbol-config.el" "~/.emacs.d/plugins/idle-highlight-mode.el" "/home/rtb/.emacs.d/graphene/.emacs.d/init.el" "/home/rtb/.emacs" "/home/rtb/.config/yi/yi.hs" "/home/rtb/.config/yi30519" "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/elscreen-20140421.414/elscreen.el" "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-tabs-20150127.1346/evil-tabs.el" "/home/rtb/.emacs" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_end.php" "/home/rtb/.emacs.d/graphene/.emacs.d/init.el" "/home/rtb/.emacs.d/graphene/ini" "/home/rtb/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  503
+  '(516 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  11723
+  '(23 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/auto-highlight-symbol-config.el"
+  "auto-highlight-symbol-config.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  250
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . prefer-utf-8-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/auto-highlight-symbol.el"
+  "auto-highlight-symbol.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/idle-highlight-mode.el"
+  "idle-highlight-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  3483
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/usr/share/emacs/24.4/lisp/mouse.el.gz"
+  "mouse.el.gz"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  17418
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/hl-anything-20150219.531/hl-anything.el"
+  "hl-anything.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  1426
+  '(1480 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.config/yi30519"
+  "yi30519"
+  'fundamental-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  104
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_end.php"
+  "aktiv_protokoll_end.php"
+  'web-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode flycheck-mode)
+  655
+  '(294 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/elscreen-20140421.414/elscreen.el"
+  "elscreen.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  26082
+  '(27763 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "elscreen-20140421.414"
+  'dired-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  1381
+  '(1450 nil)
+  t
+  '("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/elscreen-20140421.414/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/usr/share/emacs/24.4/lisp/tool-bar.el.gz"
+  "tool-bar.el.gz"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  8981
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  1809693
+  '(1 nil)
+  t
+  '("/usr/share/info/elisp" "Frame Parameters" ((history ("/usr/share/info/emacs" "Tool Bars" 585086) ("/usr/share/info/elisp" "Layout Parameters" 1825330) ("/usr/share/info/elisp" "Top" 46718) ("/usr/share/info/elisp" "Top" 42771) ("/usr/share/info/elisp" "Display" 2497227) ("/usr/share/info/elisp" "Abstract Display" 2721885) ("/usr/share/info/elisp" "Display" 2497094) ("/usr/share/info/elisp" "Top" 4839) ("dir" "Top" 1375) ("/usr/share/info/emacs" "Top" 47125) ("/usr/share/info/emacs" "Distrib" 52913) ("/usr/share/info/emacs" "Top" 3368) ("/usr/share/info/emacs" "Distrib" 52913) ("/usr/share/info/emacs" "Top" 31766) ("dir" "Top" 687))))
+  '((tab-width . 8) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-tabs-20150127.1346/evil-tabs.el"
+  "evil-tabs.el"
+  'emacs-lisp-mode
+  '(visual-line-mode company-mode smartparens-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  462
+  '(2675 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "evil-tabs-20150127.1346"
+  'dired-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  320
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-tabs-20150127.1346/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "graphene"
+  'dired-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  93
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/graphene/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "hl-anything-20150219.531"
+  'dired-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  389
+  '(323 nil)
+  t
+  '("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/hl-anything-20150219.531/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "graphene-20150126.311"
+  'dired-mode
+  '(visual-line-mode company-mode global-auto-revert-mode project-persist-mode undo-tree-mode)
+  2008
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/graphene-20150126.311/")
+  '((truncate-lines)))
+

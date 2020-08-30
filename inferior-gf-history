@@ -1,0 +1,146 @@
+gr
+gr -number=3 | l
+gr -number=5 | l
+h
+h dc
+h r
+so
+i -retain ExtraChi.gf
+so
+so
+i -retain ExtraChi
+i -retain ExtraChi.gf
+so
+cc PredVPS
+cc PredVPS.s
+cc PredVPS.s.s
+cc PredVPS {s: "hello"} {s: "there"}
+cc PredVPS {s = "hello"} {s = "there"}
+ verb : {s : Str; dp : Str; ds : Str; ep : Str; neg : Str; pp : Str;
+         sn : Str}} -> {s : Str; advType : AdvType} -> VP
+3 msec
+> 
+gr
+gr
+gr
+gr -number=5 | l
+p "这 个 葡 萄 酒 很 好"
+p "这本书读完了."
+gr
+ l Pred (This Wine) Boring
+0 msec
+Food> 
+gr
+gr -number=5 | l
+gr -number=5 | l
+gr -number=5 | l
+gr -number=5 | l
+gr -number=5 | l
+gr -number=5 | l
+h p
+p -bracket 那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的
+ p -bracket 那个新鲜的美味的鱼是新鲜的
+gr
+ p -bracket "那个新鲜的美味的鱼是新鲜的"
+ p  "那个新鲜的美味的鱼是新鲜的"
+e
+p -bracket 那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的
+p -bracket "那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的"
+h pt
+p "那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的"
+p -bracket "那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的"
+h vp
+p "那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的" | vp -view="firefox"
+pg
+p "那 个 新 鲜 的 美 味 的 鱼 是 新 鲜 的" | vt -view="firefox"
+h p
+p "约翰 爱 玛丽" | l
+p "约翰 爱 玛丽" | l
+p "约翰 爱 玛丽" | l
+h
+h p
+p "Vogelstrauß isst Beeren"
+p "Vogelstrauß isst Beeren"
+l Pred VStrauß (Compl Beeren Essen)
+l Pred VStrauß (Compl Beere Essen)
+l Pred VStrauß (Compl Beere Essen)
+l Pred VStrauß (Compl Essen Beere )
+l Pred VStrauß (Compl Fressen Beere )
+p "Vogelstrauß frisst Beeren"
+h p
+p -lang=Ger "Vogelstrauß frisst Beeren"
+p -lang=Ger "Vogelstrauß frisst Beeren"
+p -lang=Ger "der Vogelstrauß frisst Beeren"
+p -lang=Ger "der Vogelstrauß frisst Beeren"
+p -lang=Ger "der Vogelstrauß frisst Beeren"
+gr
+e
+e
+p "Vogelstrauß"
+p "Vogelstrauß frisst Beeren"
+p "Vogelstrauß fressen Beeren"
+p "Vogelstrauß frisst Beeren"
+p "Vogelstrauß frisst Beeren"
+p "Vogelstrauß frißt Beeren"
+e
+p "Vogelstrauß frisst Beeren"
+p "Vogelstrauß frißt Beeren"
+p "Vogelstrauß fresst Beeren"
+Languages: ZooRGer
+3203 msec
+ZooR> 
+p "Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frißt Beere"
+h p
+h
+p "der Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frißt Beeren"
+p -lang=Ger "der Vogelstrauß frißt Beeren"
+p -lang=Ger "der Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frißt Beeren"
+p "der Vogelstrauß frisst Beeren"
+gr
+ -number=6 | l
+h gr
+gr -number=6 | l
+pg
+pg -cats
+ -funbs
+pg -funbs
+pg -funs
+ai AP
+h ai
+pg -funs
+r -retain
+r
+h r
+i -retain /home/rtb/doks/nlp/gf/lib/src/chinese/ExtraChi.gf
+so
+r
+i -retain /home/rtb/doks/nlp/gf/lib/src/api/TryChi.gf
+so
+so | ? grep CompBare
+so | ? grep old_A
+cc old_A
+cc mkAP old_A
+so | ? grep mkAP
+cc mkVP old_A he_NP
+cc mkUtt (mkVP old_A he_NP)
+so | ? grep CompBare
+so -raw | ? grep CompBare
+so -raw | ? grep -A2 CompBare
+so -raw | ? grep -A3 CompBare
+so -raw | ? grep -A3 CompBare
+cc mkUtt (mkCl she_NP wonder_VQ (mkQS (mkQCl who_IP sleep_V)))
+cc -one mkUtt (mkCl she_NP wonder_VQ (mkQS (mkQCl who_IP sleep_V)))
+l CompAP
+p "她 很 好"
+p "她 很 好。"
+p "她 是 好 的。"
+p "我 吃 了 和 黄 油 的 面 包。"
+pg
+pg
+pg
+pg

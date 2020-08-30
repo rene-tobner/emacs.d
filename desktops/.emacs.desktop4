@@ -1,0 +1,349 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun May 10 22:57:38 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21839 50754 870850 514000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 11") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "grey20") (background-color . "white") (mouse-color . "black") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . light) (cursor-color . "black") (environment) (frameset--id . "F277-647C-2B76-A3C3") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 58) (width . 114) (left . 0) (top . 16)) ((min-height . 12) (min-width . 20) (min-height-ignore . 12) (min-width-ignore . 12) (min-height-safe . 3) (min-width-safe . 4) (min-pixel-height . 216) (min-pixel-width . 180) (min-pixel-height-ignore . 216) (min-pixel-width-ignore . 108) (min-pixel-height-safe . 54) (min-pixel-width-safe . 36)) vc (pixel-width . 1067) (pixel-height . 1038) (total-width . 119) (total-height . 58) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1067) (pixel-height . 264) (total-width . 119) (total-height . 15) (normal-height . 0.25) (normal-width . 1.0) (buffer "gallury.ur" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 5156) (start . 4733))) (leaf (pixel-width . 1067) (pixel-height . 180) (total-width . 119) (total-height . 10) (normal-height . 0.18063583815028902) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 224) (start . 1))) (hc (last . t) (pixel-width . 1067) (pixel-height . 594) (total-width . 119) (total-height . 33) (normal-height . 0.569364161849711) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 536) (pixel-height . 594) (total-width . 60) (total-height . 33) (normal-height . 1.0) (normal-width . 0.5) (buffer "gallury.urs" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 531) (pixel-height . 594) (total-width . 59) (total-height . 33) (normal-height . 1.0) (normal-width . 0.5) (buffer "thumbnailer.urs" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 37) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("orcheœô¡¿tra"))
+(setq regexp-search-ring '("Thumbnailer" "\\<thumbnail\\>" "\\<fileName\\>" "minimal" "mini" "\\<File\\>" "upload" "and" "\\<parseQuery\\>" ": query" "\\<page\\>" "fun search" "search" "\\<makeThumbnail\\>" "\\<Query\\>" "\\<queryString\\>"))
+(setq register-alist '((48 . "rewrite style Urblog/*\ndatabase dbname=urblog\nsql urblog.sql\nrewrite url Urblog/*\nfile /style.css style.css\nallow mime text/css\nallow url http://*\nallow url https://*\n\nurblog\n")))
+(setq file-name-history '("/home/rtb/ur/Gallury/gallury.ur" "/home/rtb/.emacs" "/home/rtb/ur/urblog/urblog.ur" "/home/rtb/todo.org" "/home/rtb/todo.html" "/home/rtb/ur/urweb-20150412/src/core.sml" "/home/rtb/ur/urblog/urblog.ur" "/home/rtb/ur/website/s/app.js" "/home/rtb/ur/website/s/theme.css" "/home/rtb/.emacs" "/home/rtb/tus/wag3/longs.txt" "/home/rtb/tus/wag3/nolongs-1-toCheck.txt" "/home/rtb/tus/wag3/nolongs.txt" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/tus/wagner/hyphened.txt" "/home/rtb/tus/wag3/hyphened.txt" "/home/rtb/.emacs.d/plugins/ox-koma-letter.el" "/home/rtb/doks/cv/my/kleine_fluchten.org" "/home/rtb/.emacs.d/desktops/.emacs.desktop" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/.emacs" "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm" "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/.emacs.d/evil-integration.el" "/home/rtb/.emacs.d/plugins/desktop-menu/desktop-menu.el" "~/.emacs.d" "/home/rtb/.emacs" "~/.emacs.d/" "/home/rtb/.emacs.d/bookmarks"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/gallury.ur"
+  "gallury.ur"
+  'urweb-mode
+  '(visual-line-mode auto-highlight-symbol-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  5156
+  '(5156 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/thumbnailer.urs"
+  "thumbnailer.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  37
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/gallury.urs"
+  "gallury.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/gallury.urp"
+  "gallury.urp"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  287
+  '(287 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/thumbnailer.c"
+  "thumbnailer.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  80
+  '(75 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/thumbnailer.h"
+  "thumbnailer.h"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/Gallury/thumbnailer.urp"
+  "thumbnailer.urp"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/src/core.sml"
+  "core.sml"
+  'sml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  4621
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "website"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  609
+  '(nil nil)
+  t
+  '("/home/rtb/ur/website/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/src/elisp/urweb-mode.el"
+  "urweb-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  14645
+  '(14669 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  59164
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urblog/urblog.ur"
+  "urblog.ur"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  1676
+  '(1716 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urblog/urblog.urp"
+  "urblog.urp"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  148
+  '(33 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urblog/style.css"
+  "style.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode)
+  195
+  '(532 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urblog/urblog.urs"
+  "urblog.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  74
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode org-indent-mode)
+  74204
+  '(31119 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/lib/ur/top.urs"
+  "top.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1265
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/s/app.js"
+  "app.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  202
+  '(364 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/tagffi.urs"
+  "tagffi.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/sml-mode-6.7/sml-mode.el"
+  "sml-mode.el"
+  'lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  5239
+  '(60302 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/lib/ur/top.ur"
+  "top.ur"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  953
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/lib/ur/char.ur"
+  "char.ur"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  2
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/s/theme.css"
+  "theme.css"
+  'css-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode)
+  513
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/react.urs"
+  "react.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/react.urp"
+  "react.urp"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  407
+  '(686 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/lib/ur/basis.urs"
+  "basis.urs"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  32613
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urweb-20150412/src/monoize.sml"
+  "monoize.sml"
+  'sml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  4003
+  '(1545 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/website/react.ur"
+  "react.ur"
+  'urweb-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  2909
+  '(2909 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/ur/urblog/urblog.sql"
+  "urblog.sql"
+  'sql-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode edbi-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "urblog"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  303
+  '(nil nil)
+  t
+  '("/home/rtb/ur/urblog/")
+  '((truncate-lines)))
+

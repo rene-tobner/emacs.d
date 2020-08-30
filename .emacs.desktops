@@ -1,0 +1,10 @@
+;; ------------------------------------------------------------
+;; Desktop Files for Emacs in directory /home/rtb/.emacs.d
+;; ------------------------------------------------------------
+;; Created Sun Mar 29 14:59:04 2015
+;; Emacs version 24.4.1
+
+(setq desktop-menu--desktops
+      (list
+       '("Default" ".emacs.desktop")
+       ))

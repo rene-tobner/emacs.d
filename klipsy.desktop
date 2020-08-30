@@ -1,0 +1,424 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Mar 29 09:49:18 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21783 44670 848205 771000) (desktop . "206") "rtb@thinkp" nil nil ((((font-backend xft) (font-parameter . "Droid Sans Mono 13") (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "white") (visibility . t) (frameset--id . "F552-8F81-F521-4D7C") (frameset--mini t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (height . 51) (width . 187) (left . 0) (top . 16)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 100) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 20) (min-pixel-width-safe . 20)) leaf (pixel-width . 1912) (pixel-height . 1011) (total-width . 191) (total-height . 50) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs.desktop" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 6705) (start . 4697))) (((font-backend xft) (font-parameter . "Droid Sans Mono 13") (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "white") (visibility . icon) (modeline . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (frameset--id . "5052-897B-8994-2D71") (frameset--mini t) (minibuffer . t) (height . 24) (width . 59)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 100) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 20) (min-pixel-width-safe . 20)) leaf (pixel-width . 632) (pixel-height . 479) (total-width . 63) (total-height . 23) (normal-height . 1.0) (normal-width . 1.0) (buffer "gedanken_model.php" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 11041) (start . 10765))) (((font-backend xft) (font-parameter . "Droid Sans Mono 13") (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "white") (visibility . icon) (modeline . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (frameset--id . "93C9-C410-6127-62AB") (frameset--mini t) (minibuffer . t) (height . 24) (width . 59)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 100) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 20) (min-pixel-width-safe . 20)) leaf (pixel-width . 632) (pixel-height . 479) (total-width . 63) (total-height . 23) (normal-height . 1.0) (normal-width . 1.0) (buffer "ex_gedanken_tables.txt" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 7500) (start . 6615))) (((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 13") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (modeline . t) (unsplittable) (icon-name) (visibility . icon) (display . ":0.0") (explicit-name) (frameset--id . "1D97-B8CF-E283-4853") (frameset--mini t . t) (minibuffer . t) (height . 24) (width . 61)) ((min-height . 8) (min-width . 20) (min-height-ignore . 6) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 160) (min-pixel-width . 200) (min-pixel-height-ignore . 120) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 40) (min-pixel-width-safe . 40)) hc (pixel-width . 632) (pixel-height . 479) (total-width . 63) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 316) (pixel-height . 479) (total-width . 31) (total-height . 24) (normal-height . 1.0) (normal-width . 0.49842602308499473) (buffer "ex_gedanken.php" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 10868) (start . 10526))) (vc (last . t) (pixel-width . 316) (pixel-height . 479) (total-width . 32) (total-height . 24) (normal-height . 1.0) (normal-width . 0.5015739769150053) (combination-limit) (leaf (pixel-width . 316) (pixel-height . 248) (total-width . 32) (total-height . 12) (normal-height . 0.5098039215686274) (normal-width . 1.0) (buffer "gedanken_step5.php" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 2224) (start . 2139))) (leaf (last . t) (pixel-width . 316) (pixel-height . 231) (total-width . 32) (total-height . 12) (normal-height . 0.49019607843137253) (normal-width . 1.0) (buffer "gedanken_model.php" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 7475) (start . 7430))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/TAGS")
+(setq tags-table-list '("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/TAGS"))
+(setq register-alist '((100 . "wb") (3 . [3 return 101 101]) (117) (26) (7) (106) (24) (98) (107) (58) (48 . "(load-theme 'zenburn)\n") (246) (113)))
+(setq file-name-history '("/home/rtb/.emacs.d/.emacs.desktop" "/home/rtb/.emacs" "~/Projekte/elm-Test.sublime-project" "/home/rtb/.emacs" "/home/rtb/.tustep/clipboard" "~/elm/test/src/Test.elm" "~/elm/test/index.html" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/gedanken_model.php" "~/Projekte/psycho/ex_gedanken_tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_gedanken.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step5.php" "/home/rtb/Projekte/psycho/ex_modul___tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_imagination.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/imagination/imagination_step1.php" "/home/rtb/doks/new_mag/mag.org" "/home/rtb/elm/presti/js/glue.js" "glue.js" "/home/rtb/elm/presti/index.html" "/home/rtb/js/rest/package.json" "/home/rtb/js/node_modules/sioe-demo/package.json" "/home/rtb/js/node_modules/sioe-demo/app.js" "/home/rtb/.emacs.d/elpa/elm-mode-20141202.916/elm-mode.el" "elm-mode.el" "~/elm/so/foldp.elm" "/home/rtb/elm/presti/src/Example.elm" "/home/rtb/elm/presti/js/glue.js.sh" "/home/rtb/elm/presti/src/Presti.elm" "/home/rtb/elm/presti/src/Instructions.elm" "/home/rtb/elm/elm-architecture-tutorial/2/Counter.elm" "/home/rtb/elm/elm-architecture-tutorial/2/CounterPair.elm"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/.emacs.desktop"
+  ".emacs.desktop"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6705
+  '(12747 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . emacs-mule-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/gedanken_model.php"
+  "gedanken_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  11041
+  '(6171 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_gedanken.php"
+  "ex_gedanken.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  10868
+  '(10705 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Projekte/psycho/ex_gedanken_tables.txt"
+  "ex_gedanken_tables.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode hi-lock-mode)
+  7500
+  '(3605 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  46174
+  '(15215 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode)
+  15701
+  '(15782 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercise_model.php"
+  "exercise_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  26114
+  '(26055 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/pdf.php"
+  "pdf.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode)
+  31301
+  '(31278 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step5.php"
+  "gedanken_step5.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2224
+  '(3048 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/gedanken_essen_model.php"
+  "gedanken_essen_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3402
+  '(3402 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_protokoll_all.php"
+  "aktiv_protokoll_protokoll_all.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  7026
+  '(7279 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-with-signature-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_end.php"
+  "aktiv_protokoll_end.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  545
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/test/src/Test.elm"
+  "Test.elm"
+  'elm-mode
+  '(haskell-indent-mode elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  108
+  '(65 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.tustep/clipboard"
+  "clipboard"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/test/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  326
+  '(80 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/imagination_model.php"
+  "imagination_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2929
+  '(3264 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/aktiv_protokoll_model.php"
+  "aktiv_protokoll_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  804
+  '(284 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/imagination/imagination_step1.php"
+  "imagination_step1.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2933
+  '(3164 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_imagination.php"
+  "ex_imagination.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5020
+  '(5268 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Projekte/psycho/ex_imagi_tables.txt"
+  "ex_imagi_tables.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  102
+  '(2999 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Projekte/psycho/ex_modul___tables.txt"
+  "ex_modul___tables.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2384
+  '(2291 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Projekte/psycho/ex_aktiv_protokoll_tables.txt"
+  "ex_aktiv_protokoll_tables.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  820
+  '(820 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_aktiv_protokoll.php"
+  "ex_aktiv_protokoll.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode)
+  4973
+  '(4973 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-with-signature-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_gedanken_trauma.php"
+  "ex_gedanken_trauma.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode)
+  180
+  '(77 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/mag.org"
+  "mag.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1387
+  '(2968 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/libraries/modul_lib.php"
+  "modul_lib.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1310
+  '(1676 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/modul_model.php"
+  "modul_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  3898
+  '(3892 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/user/closed_exercises.php"
+  "closed_exercises.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  4794
+  '(1 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/minimal-theme-20140409.1601/minimal-theme.el"
+  "minimal-theme.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1271
+  '(1242 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/minimal-theme-20140409.1601/minimal-theme-pkg.el"
+  "minimal-theme-pkg.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  153
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/achtsam_model.php"
+  "achtsam_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  943
+  '(7236 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_aktiv_planer.php"
+  "ex_aktiv_planer.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode)
+  8560
+  '(3191 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-with-signature-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_achtsam.php"
+  "ex_achtsam.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode)
+  10188
+  '(3912 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step6.php"
+  "achtsam_step6.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  6185
+  '(6177 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken_trauma/gedanken_trauma_step4.php"
+  "gedanken_trauma_step4.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  50
+  '(50 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step4.php"
+  "achtsam_step4.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  4767
+  '(4887 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/membership_model.php"
+  "membership_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode company-mode)
+  575
+  '(672 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+

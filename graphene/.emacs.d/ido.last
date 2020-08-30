@@ -1,0 +1,110 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/plugins/" . "auto-highlight-symbol/")
+ ("/home/rtb/.config/" . "yi/")
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/" . "graphene-20150126.311/")
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/" . "elpa/")
+ ("/home/rtb/.emacs.d/" . "graphene/")
+ ("/home/rtb/.emacs.d/graphene/" . ".emacs.d/")
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/" . "aktiv_protokoll/")
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/" . "exercises/")
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/" . "patient/")
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/" . "views/")
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/" . "application/")
+ ("/home/rtb/doks/psycho/htdocs/" . "ci_pf_0.8.0/")
+ ("/home/rtb/doks/psycho/" . "htdocs/")
+ ("/home/rtb/doks/" . "psycho/")
+ ("/home/rtb/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/rtb/"
+ "/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/"
+ "/home/rtb/.emacs.d/graphene/.emacs.d/"
+ "/home/rtb/.config/yi/"
+ "/home/rtb/.config/"
+ "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/elscreen-20140421.414/"
+ "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-tabs-20150127.1346/"
+ "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/"
+ "/home/rtb/.emacs.d/graphene/"
+ "/home/rtb/.emacs.d/graphene/.emacs.d/elpa/company-20150310.950/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "auto-highlight-symbol.el"
+ "auto-highlight-symbol-config.el"
+ "init.el"
+ "yi.hs"
+ "yi30519"
+ "elscreen.el"
+ "evil-tabs.el"
+ "aktiv_protokoll_end.php"
+ "ini"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/graphene-20150126.311/" (21763 15924 778440 117000) "graphene-windows-defaults.elc" "graphene-theme.elc" "graphene-speedbar.elc" "graphene-smartparens-config.elc" "graphene-projects.elc" "graphene-other-defaults.elc" "graphene-osx-defaults.elc" "graphene-look.elc" "graphene-linux-defaults.elc" "graphene-keys.elc" "graphene-helper-functions.elc" "graphene-env.elc" "graphene-autoloads.el~" "graphene-autoloads.el" "graphene-other-defaults.el" "graphene-speedbar.el" "graphene-osx-defaults.el" "graphene-windows-defaults.el" "graphene-editing.elc" "graphene-smartparens-config.el" "graphene-helper-functions.el" "graphene-env.el" "graphene.el" "graphene-pkg.el" "graphene-editing.el" "graphene-look.el" "graphene-linux-defaults.el" "graphene-theme.el" "graphene-keys.el" "graphene-projects.el" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/" (21765 65187 351915 183000) "hl-anything-20150219.531/" "highlight-symbol-20140923.729/" "evil-leader-20140606.543/" "evil-matchit-20150310.1817/" "evil-nerd-commenter-20141211.1502/" "evil-numbers-20140606.551/" "evil-surround-20150117.1102/" "evil-tabs-20150127.1346/" "evil-20150313.1208/" "undo-tree-20140509.522/" "goto-chg-20131228.1459/" "evil-tabs-readme.txt" "colemak-evil-readme.txt" "elscreen-20140421.414/" "graphene-20150126.311/" "exec-path-from-shell-20141212.846/" "project-persist-20131030.1208/" "sr-speedbar-20141004.532/" "smex-20141210.1422/" "web-mode-20150313.1037/" "smartparens-20150218.1058/" "flycheck-20150307.728/" "dash-20150311.2355/" "pkg-info-20140610.630/" "let-alist-1.0.3.signed" "epl-20140823.609/" "let-alist-1.0.3/" "company-20150310.950/" "archives/" "gnupg/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/" (21766 2702 414856 551000) ".emacs.desktop.lock" ".hl-save" ".emacs.desktop" "themes/" ".graphene-geometry" "ido.last" "smex-items" "auto-save-list/" "init.el~" "plugins/" "elpa/" "init.el" "../" "./")
+
+ ("/home/rtb/" (21766 2400 663776 377000) "Achtsamskeitübung.pdf" ".bash_aliases~" ".zcompdump.zwc" ".gnome/" "st3/" "js/" ".zcompcache/" ".xsel.log" "hs_src/" ".android/" ".textadept/" ".histfile" ".zcompdump" "pyth/" ".zprofile" ".zshrc" "math/" ".git-credential-cache/" ".gf_history" ".FBReader/" ".statusline.sh" ".viminfz.tmp" "src/" ".nvimlog" ".nviminfo" "BaseXData/" ".basexhistory" "repl-temp-000.elm" "todo.html~" ".basexgui" "todo.html" ".basex" ".idris/" ".pulse-cookie" ".pki/" ".steampid" ".steampath" ".java/" ".steam/" "status.txt" ".viminfo.tmp" ".cpan/" ".mysql/" "movies/" "todo.txt~" "gf/" "todo.txt" ".mysql_history" ".sqlite_history" "hack/" "buffet.txt" "php/" "ttftest.php" ".qf/" ".q3a/" ".dropbox-dist/" ".gem/" ".xvpics/" "rtb_io2/" ".elm/" ".npm/" "2014-07-15_.png" "handbuch.pdf" "hask/" ".xmlcopyeditor" ".xprofile" ".scim/" "scribusTEST.sla" "Anki/" "piwik.js" ".scribus/" ".moonchild productions/" ".darcs/" ".emacs-places" "darcs/" ".dia/" ".aspell.de_DE.pws" ".aspell.de_DE.prepl" "2014-05-21-144624_765x727_scrot.png" "Dokument1.abw.saved" "lux_home.png" ".recently-used" "todo.org~" ".wine/" "musik/" "shots/" "gimp/" ".dropbox/" ".bash_aliases" "bin/" "svr/" ".hoodle" ".filezilla/" ".ssh/" ".gstreamer-0.10/" "Projekte/" ".tustep/" ".kde4/" ".gnupg/" ".keychain/" ".xmobarrc_bak" "bilder/" ".icons/" "compile/" ".wpa_cli_history" ".macromedia/" ".adobe/" ".gimp-2.8/" "2014-05-05-221139_1280x800_scrot.png" "cowsay.txt" ".muttator/" ".vimperatorrc~" ".thunderbird/" ".vimperatorrc" "Downloads/" ".emma/" ".neocomplcache/" "yankring_history_v2.txt" ".vim/" "Dropbox/" "tus/" ".thumbnails/" "mnt/" "rtb_io/" ".cabal/" ".recentf~" ".viminfo" "perl5/" ".ido.last~" ".Xauthority" ".emacs" ".gnome2_private/" ".ido.last" ".gnome2/" ".ghc/" ".dbus/" "todo.org" "doks/" "aur/" ".zhistory" ".vimrc" ".lesskey" ".less" ".gtkrc-2.0" ".gtk-bookmarks" ".ghci" ".fehbg" "Templates/" ".dotfiles_old/" ".vimperator/" ".config/" ".Xresources" ".gitconfig" ".vifm/" ".xinitrc_bak" ".emacs.d/" "Desktop/" ".cache/" ".mozilla/" ".dmenu_cache" ".recentf" ".lesshst" "git/" ".xmobarrc" ".xmonad/" ".bash_history" ".local/" ".Xmodmap" ".xinitrc" ".bash_logout" ".bash_profile" ".bashrc" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/plugins/auto-highlight-symbol/" (21766 1570 505093 971000) "auto-highlight-symbol.el" "auto-highlight-symbol-config.el" "README.md" ".git/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/plugins/" (21766 1569 171723 317000) "idle-highlight-mode.el" "auto-highlight-symbol/" "emacs-async/" "helm/" "2326692/" "eim/" "evil-surround/" "evil-numbers/" "emacs-nav-49/" "edbi-minor-mode/" "tabbar/" "ibus-el-0.3.2/" "gf/" "sqlite-dump.el" "sqlite-dump.elc" "ox-koma-letter.elc" "my-tabbar.elc" "my-tabbar.el" "dired-sort-map.elc" "ox-koma-letter.el" "dired-sort-map.el" "evil-org-mode/" "../" "./")
+
+ ("/home/rtb/.config/" (21765 65024 536689 840000) "sublime-text-3/" "Scan Tailor/" "parcellite/" "glade.conf" "oxygen-gtk/" "mimeapps.list" "Qtness/" "chromium/" "unity3d/" "icedtea-web/" "teamviewer10/" "yarpen.cz/" "sublime-text-2/" "configstore/" "feh/" "fcitx/" "yi30519" "yi/" "fontforge/" "Florian_Hackenberger/" "enchant/" "gpick/" "ibus/" "vlc/" "quassel-irc.org/" "xarchiver/" "menus/" "inkscape/" "libreoffice/" "autostart/" "Trolltech/" "pulse/" "Trolltech.conf" "git/" "ImageMagick/" "dconf/" "abiword/" "zathura/" "gtk-3.0/" "gconf/" "pcmanfm/" "libfm/" "gtk-2.0/" "../" "./")
+
+ ("/home/rtb/.config/yi/" (21427 9398 325343 906000) "yi.hs" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/" (21763 30870 266129 59000) "default_inAbhängigkeitvonKategorie.txt" "aktiv_protokoll_step3.php" "aktiv_protokoll_step2.php" "aktiv_protokoll_step1.php" "aktiv_protokoll_protokoll_trauma.php" "aktiv_protokoll_protokoll_depressionen.php" "aktiv_protokoll_protokoll_all.php" "aktiv_protokoll_end.php" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/elscreen-20140421.414/" (21763 18935 34528 236000) "elscreen.elc" "elscreen-w3m.elc" "elscreen-speedbar.elc" "elscreen-server.elc" "elscreen-howm.elc" "elscreen-goby.elc" "elscreen-dnd.elc" "elscreen-autoloads.el" "elscreen-color-theme.elc" "elscreen-dnd.el" "elscreen-pkg.el" "elscreen-goby.el" "elscreen-dired.el" "elscreen-color-theme.el" "elscreen-howm.el" "elscreen-gf.el" "elscreen-server.el" "elscreen-dired.elc" "elscreen.el" "elscreen-wl.el" "elscreen-w3m.el" "elscreen-speedbar.el" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-tabs-20150127.1346/" (21763 18970 158673 8000) "evil-tabs.elc" "evil-tabs-autoloads.el" "evil-tabs-pkg.elc" "evil-tabs.el" "evil-tabs-pkg.el" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/themes/" (21763 20366 674492 973000) "deep-thought-theme.elc" "assemblage-theme.elc" "deep-thought-theme.el" "assemblage-theme.el" "deep-thought-theme.el~" "../" "./")
+
+ ("/home/rtb/git/dotfiles/" (21763 22513 977899 844000) "new_emacs.el~" ".zshrc~" ".emacs-old" "vim-color-test.tmp" "guru_emacs.el" ".emacs.tex~" ".Xmodmap" ".emacs.tex.blg" ".emacs.tex" ".emacs.log" "SolarizedDark.qss" ".emacs~" "colortest.vim" ".Xresources" "smake/" ".zshrc" ".xmobarrc" ".xinitrc" ".vimrc" ".lesskey" ".less" ".gitconfig" ".gtk-bookmarks" ".config/" ".ghci" ".fehbg" ".emacs" ".bashrc" ".git/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/company-20150310.950/" (21763 15895 87759 127000) "company.elc" "company-yasnippet.elc" "company-xcode.elc" "company-tempo.elc" "company-template.elc" "company-semantic.elc" "company-oddmuse.elc" "company-nxml.elc" "company-keywords.elc" "company-ispell.elc" "company-gtags.elc" "company-files.elc" "company-etags.elc" "company-elisp.elc" "company-eclim.elc" "company-dabbrev.elc" "company-dabbrev-code.elc" "company-css.elc" "company-cmake.elc" "company-clang.elc" "company-capf.elc" "company-bbdb.elc" "company-autoloads.el~" "company-autoloads.el" "company-elisp.el" "company-ispell.el" "company-abbrev.el" "company-xcode.el" "company-yasnippet.el" "company-nxml.el" "company-bbdb.el" "company-capf.el" "company-keywords.el" "company-clang.el" "company-files.el" "company-dabbrev.el" "company-tempo.el" "company-dabbrev-code.el" "company-abbrev.elc" "company-etags.el" "company.el" "company-css.el" "company-pkg.el" "company-oddmuse.el" "company-cmake.el" "company-template.el" "company-gtags.el" "company-eclim.el" "company-semantic.el" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/auto-save-list/" (21763 20717 692653 347000) ".saves-16440-thinkp~" "../" "./")
+
+ ("/home/rtb/git/" (21696 45520 96306 364000) "simplegit-progit/" "vimperator-labs/" "cufon/" "dotfiles/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-leader-20140606.543/" (21763 18990 885818 501000) "evil-leader-pkg.elc" "evil-leader-pkg.el" "evil-leader-autoloads.el" "evil-leader.el" "evil-leader.elc" "../" "./")
+
+ ("/home/rtb/.emacs.d/" (21763 15302 700839 94000) ".edbi-ds-history" "graphene/" "evil-integration.el" "evil-integration.el~" "project-explorer-cache/" "themes/" "url/" ".emacs.desktop" "ac-comphist.dat" "evil-integration.elc" "history" "eshell/" "plugins/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/" (21763 16185 891095 786000) ".zcompdump" ".zcompdump.zwc" ".gnupg/" ".emacs.d/" "../" "./")
+
+ ("/home/rtb/.emacs.d/graphene/.emacs.d/elpa/evil-20150313.1208/" (21763 19000 822714 721000) "evil.elc" "evil-vars.elc" "evil-types.elc" "evil-states.elc" "evil-search.elc" "evil-repeat.elc" "evil-maps.elc" "evil-macros.elc" "evil-integration.elc" "evil-ex.elc" "evil-digraphs.elc" "evil-core.elc" "evil-common.elc" "evil-commands.elc" "evil-autoloads.el" "evil-common.el" "evil-digraphs.el" "evil-repeat.el" "evil-core.el" "evil-pkg.el" "evil-search.el" "evil-command-window.el" "evil-command-window.elc" "evil-vars.el" "evil-integration.el" "dir" "evil.el" "evil-ex.el" "evil-maps.el" "evil-types.el" "fdl-1.3.info" "version.info" "evil.info" "evil-macros.el" "macros.info" "evil-states.el" "evil-commands.el" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/" (21735 1699 396085 661000) "tipps_koerpergefuehl/" "texteOhneTrauma/" "schlafregeln/" "schlaf/" "ressource/" "konfro/" "info_trauma/" "info_schlaf/" "info_essen/" "info_depression/" "imagination/" "gruebel/" "gedanken_trauma/" "gedanken_essen/" "gedanken/" "essen_umgang/" "brief/" "aktiv_protokoll/" "aktiv_planer/" "achtsam/" "Quellcode/" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/" (21735 1699 396085 661000) "top_nav.php" "patient/" "index.html" "exercises/" "dashboard.php" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/" (21735 1699 396085 661000) "user/" "test.php" "template.php" "patient/" "index.html" "guest/" "all/" "admin/" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/" (21735 1699 262749 564000) "views/" "third_party/" "models/" "logs/" "libraries/" "language/" "index.html" "hooks/" "helpers/" "errors/" "core/" "controllers/" "config/" "cache/" ".htaccess" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/" (21761 21366 669669 710000) "TAGS" "system/" "pdf/" "license.txt" "js/" "index.php" "img/" "fonts/" "css/" "caseload.php" "audio/" "application/" ".gitignore" ".git/" "../" "./")
+
+ ("/home/rtb/doks/psycho/htdocs/" (21754 48881 718707 480000) "sql.sql~" "sql.sql" "emma" "phpmyadmin-lnk/" "new_ci_pf_0.8.0/" "Marisa_Radial-Patch/" "JPGraph Aufgabe.rar" "phpmyadmin/" "bak_old_phpMyAdmin/" "zeugs/" "SQLDump/" "SPSQLiteClass-0.6/" "rms/" "last.diff" "phpBB3/" "mysql/" "mrbs/" "jpgraph/" "images/" "ci_pf_0.8.0/" "sqlitedb.php" "phpinfo.php" "mysql.php" "logo_trier.gif" "index.php" "index(cy)old.php" "index(cy).php" "gdlib.php" "format.css" "encoded.php" "2.php" ".htaccess" "../" "./")
+
+ ("/home/rtb/doks/psycho/" (21684 793 233907 77000) "alice-todo.html" "notes/" "Dokumentation Feedbacksystem Server2Go.docx" "mitarbeiter.csv~" "mitarbeiter.csv" "alice/" "Thumbs.db" "splash.png" "Server2Go.exe" "readme.txt" "pms_config.ini" "logo.ico" "Links Favorites.txt" "gdiplus.dll" "autorun.inf" "server/" "dlls/" "dbdir/" "cgi-bin/" "admin/" "htdocs/" "../" "./")
+
+ ("/home/rtb/doks/" (21760 42671 80409 557000) "bbx/" "greek/" "wg/" "brettspiel/" "ti3/" "git/" "localhost" "gez/" "rng/" "paps/" "flixbus-bln-trr-6-1-2015.pdf" "hpi-babelsberg/" "ticket-20141220152507.pdf" "sino/" "joey/" "tei/" "studium/" "psycho/" "koze/" "nlp/" "bus/" "amazon/" "tustep/" "bausch/" "wohnungen/" "new_mag/" "klettern/" "job/" "verlaengerung/" "cv/" "verl.org~" "unicode/" "cusanus/" "wlan/" "o2/" "salam.git.io/" "sporleder/" "haskell/" "emacs/" "mag/" "few/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

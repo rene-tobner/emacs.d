@@ -1,0 +1,295 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Nov 17 18:34:12 2017
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23055 7572 489698 891000) (desktop . "208") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#93a1a1") (background-color . "#000F14") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 100 100) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#3748A0") (environment) (frameset--id . "AEB3-D7B4-7CD8-621B") (frameset--mini t . t) (height . 44) (width . 150) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 16) (icon-name) (visibility . t) (display . ":0.0") (explicit-name)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 184) (min-pixel-width . 110) (min-pixel-height-ignore . 92) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 46) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1003) (total-width . 152) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 566) (total-width . 152) (total-height . 25) (normal-height . 0.5687936191425723) (normal-width . 1.0) (buffer ".ocamldebug" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 189) (start . 1))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 437) (total-width . 152) (total-height . 19) (normal-height . 0.43120638085742774) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1456) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("eliom" "try" "pack" "during" "exn" "finish" "not_found" "500" "not_found" "access" "debug" "type t" "type" "http_frame" "val Oc" "type"))
+(setq register-alist '((48 . "/home/rtb/ocaml/ocsigenserver.2.8/src/baselib/") (113)))
+(setq file-name-history '("/home/rtb/ocaml/ocsigenserver.2.8/src/baselib/ocsigen_lib.ml" "/home/rtb/.opam/ocsigen/lib/reactiveData/reactiveData.mli" "/home/rtb/.opam/ocsigen/lib/base/runtime.js" "/home/rtb/.opam/ocsigen/lib/base/applicative.mli" "/home/rtb/.opam/ocsigen/doc/base/README.org" "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/lwt.opam" "/home/rtb/ocaml/ocsigenserver.2.8/" "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/" "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/src/core/lwt.ml" "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/" "/home/rtb/ocaml/ocsigen-start-test/go/.ocamldebug" "/home/rtb/ocaml/ocsigenserver.2.8/src/server/ocsigen_http_client.mli" "/home/rtb/ocaml/ocsigen-start-test/go/local/etc/go/go-test.conf" "/home/rtb/ocaml/ocsigen-start-test/go/Makefile.os" "/home/rtb/ocaml/ocsigen-start-test/go/Makefile.options" "/home/rtb/ocaml/ocsigen-start-test/go/README.md" "/home/rtb/ocaml/ocsigenserver.2.8/README.md" "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/Makefile" "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/src/" "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/README.md" "/home/rtb/ocaml/ocsigen-start-test/go/Makefile.os" "/home/rtb/ocaml/ocsigen-start-test/go/Makefile" "/home/rtb/ocaml/ocsigen-start-test/go/local/etc/go/go-test.conf" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/README.md" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/assets/better_than_meteor_i18n.tsv" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/demo_i18n.eliom" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/Makefile.db" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/Makefile.style" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/Makefile" "/home/rtb/ocaml/ocsigen-start-test/better_than_meteor/README.md" "/home/rtb/ocaml/tezos/src/attacker_main.ml" "/home/rtb/ocaml/tezos/.merlin" "/home/rtb/bin/" "/home/rtb/ocaml/tezos/" "/home/rtb/ocaml/tezos/jbuild" "/home/rtb/ocaml/tezos/src/.merlin" "/home/rtb/ocaml/tezos/src/node_main.ml" "~/doks/mausi/pholignite/util/index.js" "~/doks/mausi/pholignite/phol-get-other-data/index.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/model.js" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/package.json" "/home/rtb/doks/mausi/pholignite/node_modules/mongoose/lib/document.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/serve/font/phs-symbols.woff" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "~/doks/mausi/pholignite/webpack.config.js" "~/doks/mausi/pholignite/phol-get-other-data/collect-config.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/lib/index.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-client/package.json" "/home/rtb/doks/mausi/pholignite/serve/js/admin-bundle.js" "/home/rtb/doks/mausi/pholignite/node_modules/json3/lib/json3.js" "/home/rtb/doks/mausi/pholignite/node_modules/json3/README.md" "~/doks/mausi/pholignite/send-email.js" "/home/rtb/doks/mausi/pholignite/send-email.js" "/home/rtb/doks/mausi/pholignite/conf/node-mailer.conf.json" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/Notizen/holiday-extra-MU0409101710-33.csv" "~/doks/mausi/pholignite/phol-get-other-data/NOTIZ-ppboerse-spezifikation.txt" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/font/phs-symbols.ttf" "/home/rtb/doks/mausi/pholignite/bs-config.js" "/home/rtb/doks/mausi/pholignite/mongo-scripts/1-kfz-to-kfzsArrayofObjects.js" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/js/admin-bundle.js" "/home/rtb/doks/mausi/pholignite/webpack.config.js" "/home/rtb/doks/mausi/pholignite/webpack.config-node.js" "/home/rtb/doks/mausi/pholignite/node_modules/mithril/mithril.js" "/home/rtb/doks/mausi/pholignite/node_modules/babel-loader/README.md" "/home/rtb/doks/mausi/pholignite/node_modules/seamless-immutable/src/seamless-immutable.js" "/home/rtb/doks/mausi/pholignite/node_modules/immutable-list/dist/list.js" "/home/rtb/doks/mausi/pholignite/node_modules/" "/home/rtb/doks/mausi/pholignite/node_modules/babel" "/home/rtb/doks/mausi/pholignite/.babelrc" "/home/rtb/doks/mausi/pholignite/node_modules/immutable-list/src/list.js" "/home/rtb/js/flyd/flyd.js" "/home/rtb/js/flyd/module/" "/home/rtb/doks/mausi/pholignite/node_modules/ramda/src/map.js" "/home/rtb/js/flyd/module/obj/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/flyd/module/obj/index.js" "/home/rtb/js/rtb-dot-lens/index.js" "/home/rtb/js/rtb-dot-lens/package.json" "/home/rtb/js/rtb-dot-lens/test/lens.js" "/home/rtb/js/rtb-dot-lens/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/test/dot.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/index.js" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/Readme.md" "/home/rtb/js/rtb-dot-lens/node_modules/dot-component/History.md" "/home/rtb/doks/mausi/pholignite/src/js/preise.js" "/home/rtb/doks/mausi/pholignite/phol-get-other-data/collect-config.js" "/home/rtb/doks/mausi/pholignite/node_modules/flyd/module/forwardto/test/index.js" "/home/rtb/doks/mausi/pholignite/serve/js/app-bundle.js" "/home/rtb/doks/mausi/pholignite/serve/css/mithril-checkbox.css" "/home/rtb/doks/mausi/pholignite/src/js/mithril-checkbox/src/mithril-checkbox.scss" "/home/rtb/doks/mausi/pholignite/node_modules/lodash/" "/home/rtb/js/mithril-isomorphic-example/server.js" "/home/rtb/js/basic-isomorphic-app/dist/bundle.js" "/home/rtb/js/basic-isomorphic-app/node_modules/watch/cli.js" "/home/rtb/js/basic-isomorphic-app/client/content.js" "/home/rtb/js/basic-isomorphic-app/client/index.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/.ocamldebug"
+  ".ocamldebug"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  189
+  '(189 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (189 112 105 105 105 206 206 124 176 11 11 124 124 124 167 124))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/src/baselib/ocsigen_lib.ml"
+  "ocsigen_lib.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1579 1579 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/src/server/ocsigen_extensions.ml"
+  "ocsigen_extensions.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  1472
+  '(1472 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1472 1472 1472 1472 1472 1 35206 35206 37544 35206 35012 34737 34550 32848 32848 32848))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/local/etc/go/go-test.conf"
+  "go-test.conf"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1848 1848 1925 1577 1516 1121 2506 2478 2461 2441 1945 1925 1577 1516 1121 2506))))
+
+(desktop-create-buffer 208
+  "/home/rtb/.opam/ocsigen/lib/ocsigenserver/etc/ocsigenserver/ocsigenserver.conf"
+  "ocsigenserver.conf"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1163
+  '(1163 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/src/core/lwt.ml"
+  "lwt.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  23506
+  '(23506 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (21087 9819 9819 7717 7717 2887))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/lwt.opam"
+  "lwt.opam"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1489
+  '(1489 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1686 1584 1489 1686 1584 1489 1 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/src/core/lwt.mli"
+  "lwt.mli"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  682
+  '(682 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (682 682 1 18452 18452))))
+
+(desktop-create-buffer 208
+  nil
+  "lwt.2.7.1"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  111
+  '(111 nil)
+  t
+  '("/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "core"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  119
+  '(119 nil)
+  t
+  '("/home/rtb/ocaml/ocsigen-start-test/lwt.2.7.1/src/core/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/src/server/ocsigen_server.ml"
+  "ocsigen_server.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode merlin-mode)
+  20812
+  '(21635 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (21635 19244 19170 14310 1763 1763 1709 47762 47468 44487 42624 42502 41240 41163 38124 38059))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/src/extensions/accesscontrol.ml"
+  "accesscontrol.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  4194
+  '(4194 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4194 4194 4194 4194 1987 1105 430 430 430 9839 9839 9443 8970 8368 7667 7667))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/Makefile.options"
+  "Makefile.options"
+  'makefile-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  2333
+  '(2333 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2333 2333 2333 2333 6567 6567 6439 6452 6480 6539 6439 6452 6480 6539 6539 6480))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/Makefile.os"
+  "Makefile.os"
+  'makefile-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1312
+  '(1312 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1304 1304 1304 12711 12630 12508 12421 12300 11968 11925 11320 11300 11253 10579 10462 10379))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/go.conf.in"
+  "go.conf.in"
+  'conf-space-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1470
+  '(1470 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1470 1597 1096 1096 2674 253 2674 2385 1872 1861 1599 1588 1578 1566 1560 1560))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1485
+  '(1485 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1485 1485 1384 1384 1384 1384 1384))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigenserver.2.8/src/server/ocsigen_parseconfig.ml"
+  "ocsigen_parseconfig.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  8590
+  '(8590 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/go/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  760
+  '(760 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (760 1 9521 9521 1380))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  91
+  '(91 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (267 267))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  1887
+  '(1887 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1820 4232 4232 1643 1 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/src/extensions/ocsipersist-dbm/ocsidbm.ml"
+  "ocsidbm.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  7408
+  '(7408 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1014))))
+
+(desktop-create-buffer 208
+  "/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/src/server/ocsigen_socket.ml"
+  "ocsigen_socket.ml"
+  'tuareg-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode merlin-mode)
+  1613
+  '(590 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (590 590 590 590 590 226 226 590 226 226 590))))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  224
+  '(224 nil)
+  t
+  '("/home/rtb/ocaml/ocsigen-start-test/ocsigenserver/src/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring (224 224))))
+

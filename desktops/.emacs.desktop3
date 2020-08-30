@@ -1,0 +1,327 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Apr 19 22:58:46 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21812 5894 457792 353000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 11") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (visibility . t) (frameset--id . "F045-A640-3F0D-E79C") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (height . 58) (width . 208) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 90) (min-pixel-height-ignore . 108) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 18)) vc (pixel-width . 1912) (pixel-height . 1038) (total-width . 212) (total-height . 58) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1912) (pixel-height . 876) (total-width . 212) (total-height . 49) (normal-height . 0.846820809248555) (normal-width . 1.0) (buffer "ressource_step1.php" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 6387) (start . 5859))) (leaf (last . t) (pixel-width . 1912) (pixel-height . 162) (total-width . 212) (total-height . 9) (normal-height . 0.1531791907514451) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 576) (start . 311)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/TAGS")
+(setq tags-table-list '("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/TAGS"))
+(setq search-ring nil)
+(setq regexp-search-ring '("undefined" "columnproperties" "React" "\\<data\\>" "\\<\\$data\\>" "tomorrow" "tabba" "dic" "info" "$html" "empty" "doks" "\\<url\\>" "\\<CommentBox\\>" "t" "undefined"))
+(setq register-alist '((48 . "        <script type=\"text/javascript\" src=\"<?php echo base_url(); ?>js/griddle.js\"></script>\n")))
+(setq file-name-history '("/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/griddle.js" "/home/rtb/js/react-scratchpad/basic-like-button.jsx" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/all/header.php" "/home/rtb/js/React.js-Tutorial--Comment-System/index.html" "~/doks/psycho/htdocs/ci_pf_0.8.0/TAGS" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/async_data_view.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/ressource_step1.php" "/home/rtb/js/React.js-Tutorial--Comment-System/CommentBox.jsx" "/home/rtb/js/React.js-Tutorial--Comment-System/index.html" "/home/rtb/js/React.js-Tutorial--Comment-System/comments.php" "/home/rtb/js/react-scratchpad/bundle.js" "/home/rtb/js/react-scratchpad/products.json" "/home/rtb/.emacs" "/home/rtb/js/ReactGallery/app.js" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/autoload.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/konfro/konfro_step4.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/ressource_model.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_ressource.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/ressource_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/konfro_model.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/konfro/konfro_step1.php" "/home/rtb/.emacs" "" "~/doks/psycho/htdocs/ci_pf_0\\.8\\.0/application/views/patient/exercises/konfro/*.php" "/home/rtb/.emacs" "/home/rtb/.emacs.d/testcfg/.emacs.d/init.el" "/home/rtb/.emacs.d/.emacs.desktop" "/home/rtb/.emacs" "~/Projekte/elm-Test.sublime-project" "/home/rtb/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/ressource_step1.php"
+  "ressource_step1.php"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6387
+  '(6381 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/all/header.php"
+  "header.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  268
+  '(368 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/js/griddle.js"
+  "griddle.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  26401
+  '(20969 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/React.js-Tutorial--Comment-System/index.html"
+  "index.html"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3398
+  '(55 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/basic-like-button.jsx"
+  "basic-like-button.jsx"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(55 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/React.js-Tutorial--Comment-System/CommentBox.jsx"
+  "CommentBox.jsx"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3090
+  '(3076 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/like-button.js"
+  "like-button.js"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  739
+  '(24 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/ressource_model.php"
+  "ressource_model.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  11776
+  '(251 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/sample-1.js"
+  "sample-1.js"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  32
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/sample-3.js"
+  "sample-3.js"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  171
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/sample-4.js"
+  "sample-4.js"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  541
+  '(506 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/sample-5.js"
+  "sample-5.js"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  213
+  '(376 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/ReactGallery/client/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  303
+  '(794 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  453
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_ressource.php"
+  "ex_ressource.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-highlight-symbol-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  8385
+  '(8385 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/pdf.php"
+  "pdf.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode text-scale-mode)
+  21424
+  '(20772 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/async_data_view.php"
+  "async_data_view.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode text-scale-mode)
+  4600
+  '(6452 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  25482
+  '(15549 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/core/Output.php"
+  "Output.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3118
+  '(2696 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/core/Loader.php"
+  "Loader.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  10469
+  '(19785 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  8919
+  '(nil nil)
+  t
+  '("/home/rtb/js/react-scratchpad/node_modules/react/lib/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/React.js-Tutorial--Comment-System/comments.php"
+  "comments.php"
+  'php-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  164
+  '(170 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 78) (case-fold-search . t) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/products.json"
+  "products.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  7
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/bundle.js"
+  "bundle.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  111960
+  '(109466 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/init-webmode.el"
+  "init-webmode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1730
+  '(1729 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/react-scratchpad/node_modules/react/react.js"
+  "react.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/ReactGallery/client/js/gallery.js"
+  "gallery.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2581
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/js/ReactGallery/app.js"
+  "app.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1888 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

@@ -1,0 +1,3286 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Dec 28 19:21:03 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22145 32143 656070 367000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono:pixelsize=20") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 12) (right-fringe . 12) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#93a1a1") (environment) (frameset--id . "B5C2-E295-835C-5F99") (frameset--mini t . t) (visibility . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (height . 42) (width . 136) (left . 0) (top . 16)) ((min-height . 12) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 3) (min-width-safe . 2) (min-pixel-height . 288) (min-pixel-width . 120) (min-pixel-height-ignore . 144) (min-pixel-width-ignore . 72) (min-pixel-height-safe . 72) (min-pixel-width-safe . 24)) vc (pixel-width . 1672) (pixel-height . 1002) (total-width . 186) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 258) (total-width . 186) (total-height . 11) (normal-height . 0.25) (normal-width . 1.0) (buffer "evil-org.el" (selected) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1258) (start . 1258))) (leaf (pixel-width . 1672) (pixel-height . 336) (total-width . 186) (total-height . 14) (normal-height . 0.3458083832335329) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 664) (start . 1))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 408) (total-width . 186) (total-height . 17) (normal-height . 0.4041916167664671) (normal-width . 1.0) (buffer "rt-gramm_frwk_chi.org" (selected) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 84148) (start . 63631)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("‘ºÜ" "^'" "\\^'" "orcheœô¡¿tra"))
+(setq regexp-search-ring '("shiftleft" "\"J\"" "\"J" "evil" "ev" "org-mode-map \"J\"" "org-mode-map" "org" "orgmode" "biblatex" "\\<shorttitle\\>" "\\<yufa\\>" "author" "a" "addon" "fang"))
+(setq register-alist '((98 . "eval") (108) (113) (48 . "(evil-define-key 'normal evil-org-mode-map\n  \"gh\" 'outline-up-heading\n  \"gp\" 'outline-previous-heading\n  \"gj\" (if (fboundp 'org-forward-same-level) ;to be backward compatible with older org version\n	   'org-forward-same-level\n	  'org-forward-heading-same-level)\n  \"gk\" (if (fboundp 'org-backward-same-level)\n	   'org-backward-same-level\n	  'org-backward-heading-same-level)\n  \"gl\" 'outline-next-visible-heading\n  \"t\" 'org-todo\n  \"T\" '(lambda () (interactive) (evil-org-eol-call (lambda() (org-insert-todo-heading nil))))\n  \"H\" 'org-shiftleft\n  \"J\" 'org-shiftdown\n  \"K\" 'org-shiftup\n  \"L\" 'org-shiftright\n  \"o\" '(lambda () (interactive) (evil-org-eol-call 'clever-insert-item))\n  \"O\" '(lambda () (interactive) (evil-org-eol-call 'org-insert-heading))\n  \"$\" 'org-end-of-line\n  \"^\" 'org-beginning-of-line\n  \"<\" 'org-metaleft\n  \">\" 'org-metaright\n  \"-\" 'org-cycle-list-bullet\n  (kbd \"<tab>\") 'org-cycle)\n")))
+(setq file-name-history '("/home/rtb/doks/new_mag/rt-gramm_frwk_chi.org" "/home/rtb/doks/new_mag/long-table-test.tex" "/home/rtb/doks/new_mag/long-table-test.log" "/home/rtb/bin/low-bat.sh" "/home/rtb/hask/gtk/demo/TreeDemo.hs" "/home/rtb/.xmonad/xmonad.hs" "/home/rtb/doks/new_mag/tests/shideoveruse-s.dbtex" "/home/rtb/doks/new_mag/tests/shideoveruse-b.dbtex" "/home/rtb/doks/new_mag/tests/shide-needed.dbtex" "/home/rtb/doks/new_mag/tests/shideoveruse.dbtex" "/home/rtb/doks/new_mag/material/cp-email-eng_chi2.txt" "/home/rtb/doks/new_mag/tests/tenses.dbtex" "/home/rtb/doks/new_mag/tests/do_csv2dbtex.sh" "/home/rtb/doks/new_mag/mag.bib" "/home/rtb/doks/new_mag/tests/shideoveruse.dbtex" "/home/rtb/doks/new_mag/tests/shi-de-overuse.dbtex" "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveRecInflectGerSimple.gf" "/home/rtb/doks/nlp/gf/lib/src/prelude/Prelude.gf" "/home/rtb/doks/nlp/gf/lib/src/Makefile" "/home/rtb/doks/nlp/gf/lib/src/chinese/AdjectiveChi.gf" "/home/rtb/doks/nlp/gf/lib/src/english/CatEng.gf" "/home/rtb/doks/nlp/gf/lib/src/english/NounEng.gf" "/home/rtb/doks/nlp/gf/lib/src/translator/ExtensionsEng.gf" "/home/rtb/doks/nlp/gf/whom_does_she_want_to_see.txt" "/home/rtb/doks/nlp/gf/lib/src/chinese/SentenceChi.gf" "/home/rtb/doks/nlp/gf/lib/src/chinese/SentenceChi.gfo" "/home/rtb/doks/nlp/gf/lib/src/german/StructuralGer.gf" "/home/rtb/doks/nlp/gf/lib/src/english/StructuralEng.gf" "/home/rtb/doks/nlp/gf/lib/src/translator/CheckDict.hs" "/home/rtb/doks/nlp/gf/lib/src/abstract/Common.gf" "/home/rtb/doks/nlp/gf/lib/src/abstract/Cat.gf" "/home/rtb/doks/nlp/gf/lib/src/abstract/Verb.gf" "/home/rtb/doks/nlp/gf/lib/src/german/ConstructionGer.gf" "/home/rtb/doks/nlp/gf/lib/src/german/CatGer.gf" "/home/rtb/doks/nlp/gf/lib/src/translator/ExtensionsChi.gf" "/home/rtb/doks/new_mag/tests/eng_chi3.csv" "/home/rtb/doks/nlp/gf/lib/src/api/MkBrowse.hs" "/home/rtb/doks/nlp/gf/lib/src/english/GrammarEng.gf" "/home/rtb/doks/nlp/gf/lib/src/api/ConstructorsEng.gf" "/home/rtb/doks/nlp/gf/lib/src/api/SyntaxEng.gf" "/home/rtb/doks/nlp/gf/lib/src/english/IdiomEng.gf" "/home/rtb/doks/nlp/gf/lib/src/chinese/eng_chi2.txt" "/home/rtb/doks/nlp/gf/lib/src/chinese/bi_ta_lao.txt" "/home/rtb/doks/nlp/gf/lib/src/english/ExtraEng.gf" "/home/rtb/doks/nlp/gf/lib/src/english/ExtraEngAbs.gf" "/home/rtb/doks/nlp/gf/lib/src/english/ParseEngAbs.gf" "/home/rtb/doks/nlp/gf/lib/src/translator/Translate.gf" "/home/rtb/doks/nlp/gf/lib/src/Makefile" "/home/rtb/doks/nlp/gf/lib/src/MkExx.hs" "/home/rtb/doks/nlp/gf/lib/src/Make.hs" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/DocumentationChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/api/TryChi.gf" "/home/rtb/doks/nlp/gf/src/compiler/GF/Infra/Dependencies.hs" "/home/rtb/doks/nlp/gf/src/compiler/GF/Command/Abstract.hs" "/home/rtb/doks/new_mag/example-code/ZooR/_gfdepgraph.dot" "/home/rtb/doks/nlp/GF-source/lib/src/english/VerbEng.gf" "/home/rtb/doks/new_mag/LangChi.pgf.txt" "/home/rtb/doks/new_mag/tests/entries.dbtex" "/home/rtb/doks/new_mag/tests/eng_chi3.dbtex" "/home/rtb/doks/new_mag/example-code/web/Zoo.elm" "/home/rtb/doks/new_mag/example-code/web/index.html" "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-decl-scan.el" "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-align-imports.el" "/home/rtb/hask/haskell-csv-manip/types.txt" "/home/rtb/hask/haskell-csv-manip/main.hs" "/tmp/App14.apk" "/home/rtb/doks/new_mag/tests/question-if-she-sleeps.tree" "/home/rtb/doks/new_mag/tests/eng_chi3.csv" "/home/rtb/doks/new_mag/tests/blih" "/home/rtb/hask/csv/UniReadParse.hs" "/home/rtb/hask/csv/CSV.hs" "/home/rtb/doks/nlp/gf-contrib/testsuite/resource.gfs" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/SentenceChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/abstract/Grammar.gf" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/ExtraChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/ExtraChiAbs.gf" "/home/rtb/doks/nlp/GF-source/lib/src/abstract/Structural.gf" "/home/rtb/doks/nlp/GF-source/lib/src/abstract/Grammar.gf" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/GrammarChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/api/ConstructorsChi.gf" "/home/rtb/doks/new_mag/" "/home/rtb/doks/new_mag/example-code/Zoo/ZooGer.gf" "/home/rtb/doks/new_mag/" "/home/rtb/doks/nlp/GF-source/lib/src/french/ParadigmsFre.gf" "/home/rtb/doks/nlp/GF-source/lib/src/german/DictGerAbs.gf" "/home/rtb/doks/nlp/GF-source/lib/src/thai/StringsTha.gf" "/home/rtb/doks/nlp/GF-source/lib/src/thai/ResTha.gf" "/home/rtb/doks/nlp/GF-source/lib/src/german/CatGer.gf" "/home/rtb/doks/nlp/GF-source/Makefile" "/home/rtb/doks/nlp/GF-source/lib/src/german/LexiconGer.gf" "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter7/Query.gf" "/home/rtb/doks/new_mag/notes.org" "/home/rtb/doks/nlp/GF-source/lib/src/prelude/Prelude.gf" "/home/rtb/doks/new_mag/example-code/ZooR/ZooRGer.gf" "/home/rtb/doks/nlp/GF-source/lib/src/chinese/ParseChi.gf" "/home/rtb/doks/nlp/GF-source/lib/src/german/MorphoGer.gf" "/home/rtb/doks/nlp/GF-source/lib/src/greek/ParadigmsGre.gf" "/home/rtb/doks/nlp/GF-source/lib/src/german/IrregGer.gf" "/home/rtb/doks/new_mag/rt-gramm_frwk_chi.tex" "/home/rtb/doks/new_mag/rt-gramm_frwk_chi.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/evil-org-20151202.2347/evil-org.el"
+  "evil-org.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode text-scale-mode)
+  1258
+  '(4973 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode text-scale-mode)
+  38217
+  '(38342 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  nil
+  "elpa"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  2806
+  '(12407 nil)
+  t
+  '("/home/rtb/.emacs.d/elpa/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/rt-gramm_frwk_chi.org"
+  "rt-gramm_frwk_chi.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode text-scale-mode)
+  84148
+  '(85658 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "evil-org-20151202.2347"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  298
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/elpa/evil-org-20151202.2347/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/org-plus-contrib-20150629/org.el"
+  "org.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  891527
+  '(891491 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/long-table-test.tex"
+  "long-table-test.tex"
+  'latex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  783
+  '(897 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/mag.bib"
+  "mag.bib"
+  'bibtex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  59545
+  '(24373 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/notes.org"
+  "notes.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode)
+  49143
+  '(49143 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/Constructors.gf"
+  "Constructors.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  21321
+  '(20181 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/rt-gramm_frwk_chi.tex"
+  "rt-gramm_frwk_chi.tex"
+  'latex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  447
+  '(447 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/prelude/Prelude.gf"
+  "Prelude.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  203
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/csv_gtk.hs"
+  "csv_gtk.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2465
+  '(5878 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/TreeSort.hs"
+  "TreeSort.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1935
+  '(1875 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/ZooRChi.gf"
+  "ZooRChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  89
+  '(420 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/FilterDemo.hs"
+  "FilterDemo.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1474
+  '(1474 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/test_gtk.hs"
+  "test_gtk.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1739 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/csv_gtk-withAppend.hs"
+  "csv_gtk-withAppend.hs"
+  'haskell-mode
+  '(visual-line-mode auto-highlight-symbol-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2340
+  '(2340 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/csv_gtk-maerwald.hs"
+  "csv_gtk-maerwald.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1000
+  '(2477 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/Completion.hs"
+  "Completion.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1874
+  '(1958 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/DirList.hs"
+  "DirList.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  97
+  '(897 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/ListTest.hs"
+  "ListTest.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2226
+  '(134 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/Adj.gf"
+  "Adj.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  54
+  '(29 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/TreeDemo.hs"
+  "TreeDemo.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1090
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/TreeTest.hs"
+  "TreeTest.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "demo"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  766
+  '(nil nil)
+  t
+  '("/home/rtb/hask/gtk/demo/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/ListText.hs"
+  "ListText.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  460
+  '(1068 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/ListDND.hs"
+  "ListDND.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2481
+  '(2208 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/DeclGerRes.gf"
+  "DeclGerRes.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(11763 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooOper/ZooOperLat.gf"
+  "ZooOperLat.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  31
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  296
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf/lib/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "Zoo"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  164
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/example-code/Zoo/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "chapter3"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  289
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "tests"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  327
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/tests/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/csv_gtk.hs"
+  "csv_gtk.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(230 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/rgb.txt"
+  "rgb.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/ListTest.glade"
+  "ListTest.glade"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/gtk/demo/ListDemo.hs"
+  "ListDemo.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  75
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/VerbChi.gf"
+  "VerbChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  231
+  '(970 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/IdiomChi.gf"
+  "IdiomChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  512
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/shideoveruse-s.dbtex"
+  "shideoveruse-s.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/title.org"
+  "title.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  949
+  '(884 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/do_csv2dbtex.sh"
+  "do_csv2dbtex.sh"
+  'sh-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  735
+  '(749 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/shideoveruse-b.dbtex"
+  "shideoveruse-b.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  28
+  '(28 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/shide-needed.dbtex"
+  "shide-needed.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2284
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/tenses.dbtex"
+  "tenses.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  28
+  '(28 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/shideoveruse.dbtex"
+  "shideoveruse.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(42 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  41
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/Make.hs"
+  "Make.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3705
+  '(3468 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/eng_chi3.csv"
+  "eng_chi3.csv"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2769
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/eng_chi2.txt"
+  "eng_chi2.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  26384
+  '(23158 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/SentenceChi.gf"
+  "SentenceChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  76
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ResChi.gf"
+  "ResChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6764
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/material/cp-email-eng_chi2.txt"
+  "cp-email-eng_chi2.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  25180
+  '(25317 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/ConstructorsChi.gf"
+  "ConstructorsChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  39
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/SyntaxChi.gf"
+  "SyntaxChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  94
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/NounChi.gf"
+  "NounChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2963
+  '(534 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/AdjectiveChi.gf"
+  "AdjectiveChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  387
+  '(460 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/QuestionChi.gf"
+  "QuestionChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  171
+  '(138 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/Syntax.gf"
+  "Syntax.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  32
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ParadigmsChi.gf"
+  "ParadigmsChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  587
+  '(5063 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/abstract/Cat.gf"
+  "Cat.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  736
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/eng_chi3.dbtex"
+  "eng_chi3.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  448299
+  '(679 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/linEng.out"
+  "linEng.out"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/LexiconChi.gf"
+  "LexiconChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5411
+  '(82 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/NumeralChi.gf"
+  "NumeralChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1244
+  '(957 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ExtraChi.gf"
+  "ExtraChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1277
+  '(344 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/TranslateChi.gf"
+  "TranslateChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1028
+  '(1071 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/StructuralChi.gf"
+  "StructuralChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1851
+  '(2390 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/LangChi.gf"
+  "LangChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  105
+  '(122 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/TryChi.gf"
+  "TryChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  228
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/GrammarChi.gf"
+  "GrammarChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  145
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/minimals.txt"
+  "minimals.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  394
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveRecInflectGerSimple.gf"
+  "LoveRecInflectGerSimple.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  28
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveRecInflectGer.gf"
+  "LoveRecInflectGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveRecGer.gf"
+  "LoveRecGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveRec.gf"
+  "LoveRec.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveComplChi.gf"
+  "LoveComplChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/LoveCompl/LoveCompl.gf"
+  "LoveCompl.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "LoveCompl"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  657
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/example-code/LoveCompl/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/ZooR.gf"
+  "ZooR.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(138 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Love/LoveChi.gf"
+  "LoveChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  92
+  '(109 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/steps.t2t"
+  "steps.t2t"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  4432
+  '(5849 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chunk/Chunk.gf"
+  "Chunk.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  65
+  '(1949 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Love/Love.gf"
+  "Love.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  112
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "haskell-mode-20151113.1304"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  5474
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/elpa/haskell-mode-20151113.1304/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/darcs/darcs.cabal"
+  "darcs.cabal"
+  'haskell-cabal-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  21437
+  '(2344 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/libraryBrowser/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "translator"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  4160
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf/lib/src/translator/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/todo/TopDictionaryChi.gf"
+  "TopDictionaryChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  215337
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/Translate.gf"
+  "Translate.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  145
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/FromCoreRgl.gf"
+  "FromCoreRgl.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  7661
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/DataviewSwe.gf"
+  "DataviewSwe.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  440
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/Dataview.gf"
+  "Dataview.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  293
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/Dataview.hs"
+  "Dataview.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  194
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/DictionaryChi.gf"
+  "DictionaryChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1947787
+  '(1413992 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/sysu/Assign_18.gf"
+  "Assign_18.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  13137
+  '(92 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/CatChi.gf"
+  "CatChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  252
+  '(90 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/CatEng.gf"
+  "CatEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  656
+  '(4461 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/ExtensionsChi.gf"
+  "ExtensionsChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1937
+  '(1598 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/trace_whom_does_she_want_to_see.txt"
+  "trace_whom_does_she_want_to_see.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1091 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/AdverbChi.gf"
+  "AdverbChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  280
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/ExtensionsEng.gf"
+  "ExtensionsEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2565
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/NounEng.gf"
+  "NounEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(4435 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/ParadigmsEng.gf"
+  "ParadigmsEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  17811
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/ParseEngAbs.gf"
+  "ParseEngAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  61
+  '(832 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/AllChi.gf"
+  "AllChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  92
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/common/CommonX.gf"
+  "CommonX.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  87
+  '(437 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/german/StructuralGer.gf"
+  "StructuralGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  747
+  '(795 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/StructuralEng.gf"
+  "StructuralEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  51
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/SyntaxEng.gf"
+  "SyntaxEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/CombinatorsChi.gf"
+  "CombinatorsChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  94
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/SymbolicChi.gf"
+  "SymbolicChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/CheckDict.hs"
+  "CheckDict.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  27
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/abstract/Common.gf"
+  "Common.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1183
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/abstract/Verb.gf"
+  "Verb.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  38
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/abstract/Grammar.gf"
+  "Grammar.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(365 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/german/DictVerbsGer.gf"
+  "DictVerbsGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2443
+  '(2379 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/german/ConstructionGer.gf"
+  "ConstructionGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1231
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/german/CatGer.gf"
+  "CatGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  97
+  '(56 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/eng_chi4.txt"
+  "eng_chi4.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ConstructionChi.gf"
+  "ConstructionChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(503 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/libraryBrowser/MkLinAPI.hs"
+  "MkLinAPI.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  25
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/libraryBrowser/MkLang.hs"
+  "MkLang.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  44
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/MkBrowse.hs"
+  "MkBrowse.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  12
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/ConstructorsEng.gf"
+  "ConstructorsEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  32
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/GrammarEng.gf"
+  "GrammarEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  274
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/IdiomEng.gf"
+  "IdiomEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  67
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/compiler/GF/Command/SourceCommands.hs"
+  "SourceCommands.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5734
+  '(9994 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ParseChi.gf"
+  "ParseChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1497
+  '(2674 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/bi_ta_lao.txt"
+  "bi_ta_lao.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1073
+  '(1003 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/ExtraEngAbs.gf"
+  "ExtraEngAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  588
+  '(588 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/english/ExtraEng.gf"
+  "ExtraEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5002
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/translator/todo/check-dictionary.t2t"
+  "check-dictionary.t2t"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  4780
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ExtraChiAbs.gf"
+  "ExtraChiAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  31
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/TextChi.gf"
+  "TextChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/TenseChi.gf"
+  "TenseChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/SymbolChi.gf"
+  "SymbolChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/RelativeChi.gf"
+  "RelativeChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/PhraseChi.gf"
+  "PhraseChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/DocumentationChi.gf"
+  "DocumentationChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/ConjunctionChi.gf"
+  "ConjunctionChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/AllChiAbs.gf"
+  "AllChiAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/api/Combinators.gf"
+  "Combinators.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/LangChi.pgf.txt"
+  "LangChi.pgf.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  129
+  '(848 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/compiler/GF/Infra/Dependencies.hs"
+  "Dependencies.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1491
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/compiler/GF/Command/Abstract.hs"
+  "Abstract.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  911
+  '(975 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "web"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  206
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/example-code/web/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/_gfdepgraph.dot"
+  "_gfdepgraph.dot"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/ZooRGer.gf"
+  "ZooRGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  206
+  '(274 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/python/setup.py"
+  "setup.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  590
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/org-plus-contrib-20150629/ox-latex.el"
+  "ox-latex.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  102760
+  '(27093 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/entries.dbtex"
+  "entries.dbtex"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  176
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "docsets"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  107
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/snap-elm-test/docsets/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.cabal"
+  "snap-elm-test.cabal"
+  'haskell-cabal-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(419 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20151113.1304/haskell-checkers.el"
+  "haskell-checkers.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2753
+  '(2535 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "german"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  1157
+  '(1272 nil)
+  t
+  '("/home/rtb/.cabal/share/x86_64-linux-ghc-7.10.1/gf-3.7/lib/src/german/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/haskell-bind/examples/pgf-hsbind-trans.hs"
+  "pgf-hsbind-trans.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1800
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "runtime"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  199
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf/src/runtime/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/haskell/PGF.hs"
+  "PGF.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  81
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "c"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  502
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf/src/runtime/c/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/haskell-bind/examples/pgf-shell.hs"
+  "pgf-shell.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  77
+  '(2830 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/python/INSTALL"
+  "INSTALL"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/c/INSTALL"
+  "INSTALL"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  27
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/c/README"
+  "README"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3433
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/runtime/python/examples/README"
+  "README"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1224
+  '(7479 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20151113.1304/inf-haskell.el"
+  "inf-haskell.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  21526
+  '(21526 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20151113.1304/haskell-doc.el"
+  "haskell-doc.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  29488
+  '(24438 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20151113.1304/NEWS"
+  "NEWS"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  13223
+  '(220 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "tustep"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  207
+  '(nil nil)
+  t
+  '("/home/rtb/doks/tustep/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-interactive-mode.el"
+  "haskell-interactive-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  44708
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/inf-haskell.el"
+  "inf-haskell.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  35645
+  '(29966 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-decl-scan.el"
+  "haskell-decl-scan.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1607
+  '(25833 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-align-imports.el"
+  "haskell-align-imports.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/haskell-mode-20150316.530/haskell-mode.el"
+  "haskell-mode.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  44812
+  '(43655 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode)
+  15133
+  '(47291 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/hello.csv"
+  "hello.csv"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  73
+  '(42 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/question-if-she-sleeps.tree"
+  "question-if-she-sleeps.tree"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(65292 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/eng_chi3.csv"
+  "eng_chi3.csv"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(32682 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/gf-web-api-examples.html"
+  "gf-web-api-examples.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  1831
+  '(1458 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/robots.txt"
+  "robots.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/translator/index.html"
+  "index.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  150
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/wc.html"
+  "wc.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode)
+  1716
+  '(61 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/translator/translator.js"
+  "translator.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2525
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/js/gfrobust.js"
+  "gfrobust.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  83
+  '(345 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/js/gftranslate.js"
+  "gftranslate.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1011
+  '(3182 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/js/wc.js"
+  "wc.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(11502 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/src/www/js/grammar_manager.js"
+  "grammar_manager.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(5084 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "js"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  558
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/gf/src/www/js/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/doc/new-gf-bib.bib"
+  "new-gf-bib.bib"
+  'bibtex-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  78504
+  '(70596 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf/lib/src/chinese/classifiersChi.txt"
+  "classifiersChi.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  82536
+  '(82549 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "slpopejoy"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  52
+  '(nil nil)
+  t
+  '("/home/rtb/hask/mt_intro/slpopejoy/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/darcs/Setup.lhs"
+  "Setup.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6341
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/darcs/NEWS"
+  "NEWS"
+  'outline-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  509
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/darcs/README"
+  "README"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/darcs/GNUmakefile"
+  "GNUmakefile"
+  'makefile-gmake-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/do_test.sh"
+  "do_test.sh"
+  'sh-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  452
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/lin.out"
+  "lin.out"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/linChi.out"
+  "linChi.out"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/tests/compareChi.hs"
+  "compareChi.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode smartparens-mode)
+  893
+  '(926 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/ParseReadings.hs"
+  "ParseReadings.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1114
+  '(1493 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/reader/test.hs"
+  "test.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1477
+  '(177 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/reader/readerMonad.lhs"
+  "readerMonad.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  13123
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/csv/CSV.hs"
+  "CSV.hs"
+  'haskell-mode
+  '(haskell-doc-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode smartparens-mode)
+  1
+  '(844 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/csv/UniReadParse.hs"
+  "UniReadParse.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  236
+  '(316 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/read_test.txt"
+  "read_test.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-contrib/testsuite/resource.gfs"
+  "resource.gfs"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  7164
+  '(6976 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooOper/ZooOperGer.gf"
+  "ZooOperGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  152
+  '(183 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zoo/ZooGer.gf"
+  "ZooGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1281
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooOper/ZooOperChi.gf"
+  "ZooOperChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  72
+  '(35 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooOper/ZooOper.gf"
+  "ZooOper.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  17
+  '(10 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  463
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zoo/ZooLat.gf"
+  "ZooLat.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  173
+  '(438 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/DShopping.gf"
+  "DShopping.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  74
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/FoodsEng.gf"
+  "FoodsEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  54
+  '(288 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/Foods.gf"
+  "Foods.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  206
+  '(170 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "Beispiele"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  383
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/example-code/leiss/Beispiele/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodEng.gf"
+  "FoodEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  306
+  '(306 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zoo/ZooChi.gf"
+  "ZooChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  115
+  '(149 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zoo/Zoo.gf"
+  "Zoo.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  47
+  '(135 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter7/Query.gf"
+  "Query.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  48
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter7/QueryEng.gf"
+  "QueryEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  185
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter4/DefArtGer.gf"
+  "DefArtGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/DShoppingEng.gf"
+  "DShoppingEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  139
+  '(312 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/Verbs.gf"
+  "Verbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  113
+  '(228 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/Nat.gf"
+  "Nat.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(528 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/VerbsEng.gf"
+  "VerbsEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  198
+  '(199 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter6/Arithm.gf"
+  "Arithm.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  333
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.cabal/share/x86_64-linux-ghc-7.10.1/gf-3.7/lib/src/german/GrammarGer.gf"
+  "GrammarGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.cabal/share/x86_64-linux-ghc-7.10.1/gf-3.7/lib/src/german/ResGer.gf"
+  "ResGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  6785
+  '(3103 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/SyntaxGer.gf"
+  "SyntaxGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  64
+  '(1995 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodHin.gf"
+  "FoodHin.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodIta.gf"
+  "FoodIta.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  50
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodGer.gf"
+  "FoodGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  39
+  '(30 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodChi2.gf"
+  "FoodChi2.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/FoodChi.gf"
+  "FoodChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  257
+  '(353 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Food/Food.gf"
+  "Food.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  53
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/ZeroChi.gf"
+  "ZeroChi.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  136
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/beseme/tools/Stdm.lhs"
+  "Stdm.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3724
+  '(44473 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/mag/mag.org"
+  "mag.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  50985
+  '(62550 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/ZeroGer.gf"
+  "ZeroGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/ZeroEng.gf"
+  "ZeroEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/ZeroDut.gf"
+  "ZeroDut.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/semantic/Lang1Abs.gf"
+  "Lang1Abs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  42
+  '(314 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/semantic/Lang1.gf"
+  "Lang1.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  165
+  '(57 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/slpopejoy/Effectful02.lhs"
+  "Effectful02.lhs"
+  'literate-haskell-mode
+  '(haskell-doc-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  4714
+  '(4702 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/slpopejoy/somemore.lhs"
+  "somemore.lhs"
+  'literate-haskell-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(1309 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/slpopejoy/test.cfg"
+  "test.cfg"
+  'conf-unix-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  19
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/Language.gf"
+  "Language.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  270
+  '(356 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/snap-elm-test/snap-elm-test.hs"
+  "snap-elm-test.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  248
+  '(258 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/mt_intro/test.hs"
+  "test.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  704
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/exist_pair/test.hs"
+  "test.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/Ap0Eng.gf"
+  "Ap0Eng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  548
+  '(548 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-2/BinaryOperatorsImpl.gf"
+  "BinaryOperatorsImpl.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  216
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/ZeroLat.gf"
+  "ZeroLat.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  225
+  '(298 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/DeclEngRes.gf"
+  "DeclEngRes.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  178
+  '(317 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/CommentsGer.gf"
+  "CommentsGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/Ap0.gf"
+  "Ap0.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode view-mode helm-mode)
+  18
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/Ap0b.gf"
+  "Ap0b.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/leiss/Beispiele/Ap0Ger.gf"
+  "Ap0Ger.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/wag3/z4.txt"
+  "z4.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5879191
+  '(5881608 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/Arabic.gf"
+  "Arabic.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  26
+  '(2744 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/ResIta.gf"
+  "ResIta.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  288
+  '(288 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-4/FoodGerman.gf"
+  "FoodGerman.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  131
+  '(479 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Brille/MitBrille.gf"
+  "MitBrille.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  122
+  '(480 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Brille/MitBrilleAbs.gf"
+  "MitBrilleAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  148
+  '(120 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/Zero/Zero.gf"
+  "Zero.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  48
+  '(148 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BoolAbs.gf"
+  "BoolAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  158
+  '(190 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/Bool.gf"
+  "Bool.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  281
+  '(281 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/EyesEng.gf"
+  "EyesEng.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  361
+  '(361 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/Eyes.gf"
+  "Eyes.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  63
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BoolTableLinAbs.gf"
+  "BoolTableLinAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  111
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BoolTableLin.gf"
+  "BoolTableLin.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  112
+  '(262 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BoolRecordTableAbs.gf"
+  "BoolRecordTableAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  83
+  '(10 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BoolRecordTable.gf"
+  "BoolRecordTable.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(868 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BinaryOperatorsImpl.gf"
+  "BinaryOperatorsImpl.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  93
+  '(870 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/BinaryOperators.gf"
+  "BinaryOperators.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(112 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/AdjSwe.gf"
+  "AdjSwe.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  102
+  '(289 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-1/AdjBlu.gf"
+  "AdjBlu.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  128
+  '(69 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/examples/chapter3/FoodsIta.gf"
+  "FoodsIta.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  288
+  '(288 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/plugins/gf/gf.el"
+  "gf.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  16554
+  '(16525 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/plugins/eim/py.txt"
+  "py.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  26619
+  '(627 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/plugins/eim/eim.el"
+  "eim.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  16375
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/Downloads/chinese/pinyin--fehlerhaft.txt"
+  "pinyin--fehlerhaft.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  5915
+  '(5914 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter3/3-2/BinaryOperators.gf"
+  "BinaryOperators.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/copyLang/CopyAbs.gf"
+  "CopyAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  290
+  '(480 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/ReverseLang.hs"
+  "ReverseLang.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1184
+  '(264 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/copyLang/Copy.gf"
+  "Copy.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  104
+  '(24 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/ReverseLanguage.gf"
+  "ReverseLanguage.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  363
+  '(77 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/copyLang/copy.dot"
+  "copy.dot"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  12
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/ReversibleLanguageAbs.gf"
+  "ReversibleLanguageAbs.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  348
+  '(410 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  792
+  '(985 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-6/ReversibleLanguage.gf"
+  "ReversibleLanguage.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  263
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/copyLang/CopyInput.gf"
+  "CopyInput.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/gf-ressource/gf-book/exercises/chapter2/2-9/README.md"
+  "README.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/org-20151228/org-loaddefs.el"
+  "org-loaddefs.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  88069
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+

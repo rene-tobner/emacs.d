@@ -1,0 +1,426 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Jan 19 10:08:36 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22173 64788 328709 315000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (font-parameter . "-unknown-Droid Sans Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 12) (right-fringe . 12) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha 100 90) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#93a1a1") (environment) (frameset--id . "C0A9-E271-197D-D327") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 33) (width . 102) (left . 0) (top . 1080)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 192) (min-pixel-width . 120) (min-pixel-height-ignore . 96) (min-pixel-width-ignore . 72) (min-pixel-height-safe . 48) (min-pixel-width-safe . 24)) vc (pixel-width . 1272) (pixel-height . 768) (total-width . 106) (total-height . 32) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1272) (pixel-height . 408) (total-width . 106) (total-height . 17) (normal-height . 0.53125) (normal-width . 1.0) (buffer "ZooRGer.gf" (selected) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 22) (start . 1))) (leaf (last . t) (pixel-width . 1272) (pixel-height . 360) (total-width . 106) (total-height . 15) (normal-height . 0.46875) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 399) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("klein" "\\<show\\>" "pick" "\\<find\\>" "gramma" "extra" "fish" "hi-->" "-->" "--Y" "util" "none" "task" "postar" "submit" "\\<postArticle\\>"))
+(setq register-alist '((107) (113) (48 . "    Klein = mkA \"klein\" ;\n")))
+(setq file-name-history '("/home/rtb/doks/nlp/GF-source/src/runtime/javascript/translator.html" "/home/rtb/elm/elm-architecture-tutorial/2/CounterPair.elm" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/libraries/jpgraph/jpgraph_ttf.inc.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/libraries/jpgraph/jpg-config.inc.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/index.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/portal.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/routes.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/database/DB_driver.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/user/patient/status.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/admin/status.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/constants.php" "/home/rtb/doks/psycho/htdocs/jsPDF/examples/images.html" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gruebel/gruebel_protokoll.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/user/patient/homework.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/brief_model.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/css/jquery-ui-1.10.4.custom.css" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/language/german/form_validation_lang.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/language/english/form_validation_lang.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv.diff" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_end.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step5.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/ex_achtsam_step5.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/user/patient.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step7.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step5.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step4.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken_trauma/gedanken_trauma_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/Quellcode/neu/gedanken_trauma/gedanken_trauma_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken_trauma/gedanken_trauma_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step8.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step2.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/patient/homework.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/system/libraries/Migration.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/patient.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/migration.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/ressource/ressource_step1.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/brief/brief_step1.php" "/home/rtb/Projekte/psycho/ex_exercises_table.txt" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_achtsam.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step1a.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/pdf.php" "/home/rtb/todo.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_schlaf.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/schlaf/schlaf_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_brief.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/brief/brief_abschluss.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/brief/brief_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/brief/brief_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/achtsam/achtsam_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/Quellcode/neu/achtsam/achtsam_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/index.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/css/style.css" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/aktiv_protokoll_model.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/database.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/config.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_protokoll_all.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_protokoll_all.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_planer/aktiv_planer_protokoll.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_aktiv_planer.php" "/tmp/php_errors.log" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/aktiv_planer_model.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/views/user/patient/homework.php" "/home/rtb/doks/psycho/alice/todo.txt" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/user/patient.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_planer/aktiv_planer_protokoll.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_planer/aktiv_planer_step3.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step8.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step7.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step6.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step4.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step3.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_planer/aktiv_planer_step2.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_planer/aktiv_planer_step1.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/all/footer.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/all/header.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/user/patient.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/patient.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_aktiv_protokoll.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/patient.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/config.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/config/autoload.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercise_model.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/aktiv_protokoll/aktiv_protokoll_protokoll_all.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/libraries/modul_lib.php" "~/doks/psycho/htdocs/ci_pf_0.8.0/application/models/modul_model.php"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/ZooRGer.gf"
+  "ZooRGer.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  22
+  '(412 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "ZooR"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  106
+  '(nil nil)
+  t
+  '("/home/rtb/doks/new_mag/example-code/ZooR/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/new_mag/example-code/ZooR/ZooR.gf"
+  "ZooR.gf"
+  'gf-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  86
+  '(183 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/runtime/javascript/grammar.js"
+  "grammar.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  4276
+  '(95 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/runtime/javascript/gflib.js"
+  "gflib.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  7627
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/runtime/javascript/translator.html"
+  "translator.html"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  1940
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/runtime/javascript/translator.js"
+  "translator.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  625
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "javascript"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode text-scale-mode)
+  745
+  '(nil nil)
+  t
+  '("/home/rtb/doks/nlp/GF-source/src/runtime/javascript/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/www/wc.html"
+  "wc.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode text-scale-mode)
+  3941
+  '(740 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/www/js/wc.js"
+  "wc.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  5479
+  '(3088 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/www/translator/translator.js"
+  "translator.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  2675
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/www/js/pgf_online.js"
+  "pgf_online.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  269
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/doks/nlp/GF-source/src/runtime/javascript/editorGrammar.js"
+  "editorGrammar.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  7208
+  '(21437 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-architecture-tutorial/elm-stuff/packages/elm-lang/core/1.1.1/src/Native/List.js"
+  "List.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  1769
+  '(979 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-architecture-tutorial/elm-stuff/packages/elm-lang/core/1.1.1/src/Native/Utils.js"
+  "Utils.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  5349
+  '(5349 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-architecture-tutorial/elm-stuff/packages/elm-lang/core/1.1.1/src/List.elm"
+  "List.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  855
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "1.1.1"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  143
+  '(nil nil)
+  t
+  '("/home/rtb/elm/elm-architecture-tutorial/elm-stuff/packages/elm-lang/core/1.1.1/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-architecture-tutorial/2/CounterPair.elm"
+  "CounterPair.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  137
+  '(1223 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/elm-stuff/packages/evancz/elm-effects/2.0.1/src/Effects.elm"
+  "Effects.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode text-scale-mode)
+  2540
+  '(1410 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Pages/User/Update.elm"
+  "Update.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  514
+  '(514 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  188
+  '(nil nil)
+  t
+  '("/home/rtb/elm/elm-hedley/elm-stuff/packages/evancz/elm-effects/2.0.1/src/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/elm-stuff/packages/evancz/task-tutorial/1.0.3/src/TaskTutorial.elm"
+  "TaskTutorial.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  168
+  '(202 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Main.elm"
+  "Main.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1398
+  '(2922 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/ArticleForm/Update.elm"
+  "Update.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  3530
+  '(4064 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Pages/User/Model.elm"
+  "Model.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  577
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/App/View.elm"
+  "View.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  2954
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Pages/User/Decoder.elm"
+  "Decoder.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  601
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  189
+  '(nil nil)
+  t
+  '("/home/rtb/elm/elm-hedley/elm-stuff/packages/evancz/start-app/2.0.2/src/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Pages/User/View.elm"
+  "View.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Article/Decoder.elm"
+  "Decoder.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  80
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "User"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode)
+  282
+  '(nil nil)
+  t
+  '("/home/rtb/elm/elm-hedley/src/elm/Pages/User/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/EventAuthorFilter/View.elm"
+  "View.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(2324 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/EventAuthorFilter/Update.elm"
+  "Update.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/EventAuthorFilter/Model.elm"
+  "Model.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/elm-stuff/packages/evancz/start-app/2.0.2/src/StartApp.elm"
+  "StartApp.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1717
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/elm/Config.elm"
+  "Config.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  396
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-hedley/src/js/elm-interop.js"
+  "elm-interop.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  109
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

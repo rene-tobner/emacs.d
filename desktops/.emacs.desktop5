@@ -1,0 +1,712 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jan 19 14:37:51 2017
+;; Desktop file format version 206
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22656 49455 523135 937000) (desktop . "208") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "#839496") (border-color . "#073642") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 100 70) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#93a1a1") (environment) (frameset--id . "9504-2CD4-AB5A-6121") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 46) (width . 150) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 176) (min-pixel-width . 110) (min-pixel-height-ignore . 88) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 44) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1004) (total-width . 152) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 652) (total-width . 152) (total-height . 30) (normal-height . 0.6533864541832669) (normal-width . 1.0) (buffer "parse.c" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 27) (start . 1))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 352) (total-width . 152) (total-height . 16) (normal-height . 0.3466135458167331) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 926) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/home/rtb/pyth/trufont/TAGS")
+(setq tags-table-list '("/home/rtb/pyth/trufont/TAGS"))
+(setq search-ring '("<p>Å†Å†\\\\([0-9]+\\\\. \\\\)?-- <\\\\([^>]+\\\\)" "ó´Í" "ó´È" "úÙ°œ" "ó´∞" "E\\w\\{3\\}" "^'" "\\^'" "orcheúÙ°øtra"))
+(setq regexp-search-ring '("font" "desktop-create-buf" "semx" "776" "</art" "<art" "776" "nil" "70" "67" "59" "56" "53" "514" "42" "39"))
+(setq register-alist '((26) (7) (24) (104) (113) (48 . "/usr/include/libxml2/") (107)))
+(setq file-name-history '("/home/rtb/tus/gpsr/r.xml" "/home/rtb/.emacs.d/desktops/.emacs.desktop5" "/home/rtb/tus/gpsr/dist/gpsr_8.xml" "/home/rtb/tus/gpsr/pre-post-proc.el" "/home/rtb/tus/gpsr/gpsr_8.bak" "/home/rtb/tus/gpsr/dist/gpsr_1.xml" "/home/rtb/tus/gpsr/test_xml-viewer/node_modules/xml-parser/index.js" "/home/rtb/tus/gpsr/test_xml-viewer/node_modules/xml-viewer/index.js" "/home/rtb/tus/gpsr/test_xml-viewer/data.xml" "/home/rtb/tus/gpsr/test_xml-viewer/bundle.js" "/home/rtb/tus/gpsr/test_xml-viewer/" "/home/rtb/tus/gpsr/basex_node/bower_components/treebeard/dist/treebeard.js" "/home/rtb/tus/gpsr/basex_node/demo/sample.json" "/home/rtb/tus/gpsr/basex_node/demo/gpsr_1_arts-treebeard.json" "/home/rtb/tus/gpsr/basex_node/demo/index.html" "/home/rtb/tus/gpsr/basex_node/demo/gpsr_1_art.json" "/home/rtb/tus/gpsr/basex_node/my" "/home/rtb/tus/gpsr/basex_node/util-transform.js" "/home/rtb/tus/gpsr/dist/gpsr_7_2.xml" "/home/rtb/tus/gpsr/dist/gpsr_2.xml" "/home/rtb/tus/gpsr/dist/semx-gpsr_6.log" "/home/rtb/tus/gpsr/dist/gpsr_6.xml" "/home/rtb/tus/gpsr/dist/gpsr_4.xml" "/home/rtb/.emacs.d/dash.el.md" "/home/rtb/tus/gpsr/basex_node/index.js" "/home/rtb/tus/awb/awb6cout.txt" "/home/rtb/tus/gpsr/mark.el" "~/tus/gpsr/semx-gpsr_2.log" "~/tus/gpsr/sem1-gpsr_2.log" "~/tus/gpsr/semx-gpsr_7_2.log" "/home/rtb/tus/gpsr/semx-gpsr_7_2.log" "/home/rtb/tus/gpsr/sem-log-gpsr_2" "/home/rtb/tus/gpsr/util.el" "/home/rtb/tus/gpsr/old.el" "/home/rtb/tus/gpsr/vars.el" "/home/rtb/tus/gpsr/semtag-7_1.el" "/home/rtb/tus/gpsr/gpsr_2.xml" "/home/rtb/tus/gpsr/gpsr_2.bak" "/home/rtb/tus/gpsr/gpsr_1.xml" "/home/rtb/tus/gpsr/gpsr_7_2.xml" "~/tus/gpsr/gpsr_7_1.xml" "/home/rtb/tus/gpsr/blah.txt" "/home/rtb/tus/gpsr/gpsr_7_1.bak" "/home/rtb/tus/gpsr/tus2pua.txt" "/home/rtb/tus/gpsr/tus2pua.krz" "/home/rtb/.emacs.d/plugins/xah/xfrp_find_replace_pairs.el" "/home/rtb/tus/gpsr/gpsr_7_1.xml" "/home/rtb/.emacs" "/home/rtb/tus/gpsr/pua.txt" "~/tus/gpsr/list-pua.py" "/home/rtb/tus/gpsr/gpsr_7_1.xml" "/home/rtb/tus/gpsr/count.sh" "/home/rtb/pyth/test_fonts/change_fea_to_compile.sed" "/home/rtb/pyth/trufont/trufont/src/fonttools/Lib/fontTools/feaLib/ast.py" "/home/rtb/.pyhistory" "/home/rtb/.pystartup" "/home/rtb/.python_history" "/home/rtb/pyth/trufont/trufont/src/fonttools/Lib/fontTools/feaLib/lexer.py" "/home/rtb/pyth/trufont/trufont/src/fonttools/Lib/fontTools/feaLib/parser.py" "/home/rtb/pyth/trufont/trufont/src/featools/Lib/feaTools/__init__.py" "/home/rtb/pyth/trufont/Lib/defconQt/featureTextEditor.py" "/home/rtb/pyth/trufont/trufont/src/defcon/Lib/defcon/objects/features.py" "/home/rtb/pyth/trufont/Lib/trufont/representationFactories/glyphViewFactory.py" "/home/rtb/pyth/test_fonts/ttx/tst#2.G_P_O_S_.ttx" "/home/rtb/pyth/trufont/trufont/src/compositor/Lib/compositor/__init__.py" "/home/rtb/pyth/trufont/trufont/src/compositor/Lib/compositor/layoutEngine.py" "/home/rtb/pyth/trufont/setup.py" "/home/rtb/pyth/trufont/trufont/src/defcon/Lib/defcon/objects/font.py" "/home/rtb/pyth/qt_test/charactermap.pro" "/home/rtb/pyth/qt_test2/hello.cpp" "/home/rtb/pyth/trufont/trufont/src/defcon/Lib/defcon/objects/glyph.py" "/home/rtb/pyth/trufont/trufont/src/defcon/Lib/defcon/__init__.py" "/home/rtb/pyth/trufont/trufont/src/fonttools/Lib/fontTools/otlLib/builder.py" "/home/rtb/pyth/test_fonts/shit" "/home/rtb/pyth/test_fonts/LibertinusSerif.ufo/fontinfo.plist" "/home/rtb/pyth/test_fonts/LibertinusSerif.ufo/features.fea" "/home/rtb/pyth/test_fonts/KompLett.ufo/features2.fea" "/home/rtb/pyth/test_fonts/KompLett.ufo/features.fea" "/home/rtb/pyth/trufont/Lib/defconQt/compositionWindow.py" "/home/rtb/pyth/trufont/Lib/defconQt/glyphView.py" "~/pyth/trufont/TAGS" "/home/rtb/pyth/trufont/trufont/src/fonttools/Lib/fontTools/feaLib/builder.py" "/home/rtb/pyth/test_fonts/KompLett.ufo/fontinfo.plist" "/home/rtb/pyth/test_fonts/KompLett.ufo/metainfo.plist" "~/pyth/trufont/trufont/src/defcon/Lib/defcon/objects/uniData.py" "/home/rtb/tus/gpsr/gpsr_7_1_sem.txt" "/home/rtb/tus/gpsr/out.txt" "/home/rtb/tus/gpsr/gpsr_7_1.xml" "/home/rtb/tus/gpsr/gpsr_7_1.seq" "/home/rtb/tus/gpsr/gpsr_7_2.xml" "/home/rtb/tus/gpsr/gpsr_p.txt" "/home/rtb/tus/gpsr/gpsr_7_1.txt" "/home/rtb/tus/gpsr/exch.hlp" "/opt/tustep/codes" "/home/rtb/tus/gpsr/gpsr_7_1.txt" "/home/rtb/doks/koze/server_hiwiraum.txt" "/home/rtb/tus/wag3/last.el" "/home/rtb/tus/wag3/z9.txt" "/home/rtb/tus/wag3/.einf_fehler.txt.~undo-tree~" "/home/rtb/tus/wag3/einf_fehler.txt"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/parse.c"
+  "parse.c"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  27
+  '(27 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/usr/include/libxml2/libxml/parser.h"
+  "parser.h"
+  'c-mode
+  '(abbrev-mode visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2729
+  '(2729 nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/semtag-7_1.el"
+  "semtag-7_1.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1387
+  '(1387 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/gpsr_8.xml"
+  "gpsr_8.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  47
+  '(47 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/r.xml"
+  "r.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  24
+  '(24 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/gpsr_7_2.xml"
+  "gpsr_7_2.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7
+  '(7 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode smartparens-mode org-indent-mode)
+  24786
+  '(24786 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_8.log"
+  "semx-gpsr_8.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  443810
+  '(412999 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/pre-post-proc.el"
+  "pre-post-proc.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2671
+  '(2538 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_8.log"
+  "sem1-gpsr_8.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  162
+  '(54 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/gpsr_8.bak"
+  "gpsr_8.bak"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  513413
+  '(514935 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/gpsr_1.xml"
+  "gpsr_1.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1680
+  '(40 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_5_1.log"
+  "arts-gpsr_5_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  3209
+  '(3024 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_5_1.log"
+  "semx-gpsr_5_1.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  168153
+  '(131753 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_6.log"
+  "arts-gpsr_6.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  61
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_6.log"
+  "sem1-gpsr_6.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1
+  '(81705 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_4.log"
+  "arts-gpsr_4.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  36
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_4.log"
+  "sem1-gpsr_4.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1
+  '(25042 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_3.log"
+  "arts-gpsr_3.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  6
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_3.log"
+  "sem1-gpsr_3.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1
+  '(30532 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_2.log"
+  "arts-gpsr_2.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  41131
+  '(41248 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_2.log"
+  "sem1-gpsr_2.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  156
+  '(36766 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_1.log"
+  "arts-gpsr_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  37
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_1.log"
+  "sem1-gpsr_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1
+  '(12893 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_7_2.log"
+  "arts-gpsr_7_2.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  12431
+  '(12347 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_7_2.log"
+  "semx-gpsr_7_2.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  243599
+  '(243394 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_7_2.log"
+  "sem1-gpsr_7_2.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  29950
+  '(43147 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_7_1.log"
+  "semx-gpsr_7_1.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  222293
+  '(223474 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/arts-gpsr_7_1.log"
+  "arts-gpsr_7_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  557
+  '(3021 nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_7_1.log"
+  "sem1-gpsr_7_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  24796
+  '(26963 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/gpsr_7_1.bak"
+  "gpsr_7_1.bak"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode hi-lock-mode)
+  1015843
+  '(1020347 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/util.el"
+  "util.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7443
+  '(5689 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/vars.el"
+  "vars.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1163
+  '(891 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/mark.el"
+  "mark.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1598
+  '(1592 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_1.log"
+  "semx-gpsr_1.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  202776
+  '(202776 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/gpsr_2.xml"
+  "gpsr_2.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  53636
+  '(53501 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/gpsr_4.xml"
+  "gpsr_4.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode hi-lock-mode)
+  100388
+  '(100388 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_4.log"
+  "semx-gpsr_4.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  30983
+  '(28140 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/semx-gpsr_6.log"
+  "semx-gpsr_6.log"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  266385
+  '(266385 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  79015
+  '(80358 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/gpsr_2.bak"
+  "gpsr_2.bak"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2050771
+  '(1320688 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/test.xml"
+  "test.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1938
+  '(5 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/dash.el.md"
+  "dash.el.md"
+  'markdown-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  51971
+  '(8444 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/old.el"
+  "old.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4529
+  '(10459 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/stack-action.el"
+  "stack-action.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode rainbow-delimiters-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1338
+  '(925 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/s-20140910.334/s.el"
+  "s.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  12184
+  '(17383 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/dash-20160820.501/dash.el"
+  "dash.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  29755
+  '(30047 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/projectile-20150316.1130/projectile.el"
+  "projectile.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  12582
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/helm-swoop-20151022.1750/helm-swoop.el"
+  "helm-swoop.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  8425
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/recurse-parse.el"
+  "recurse-parse.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  795
+  '(2276 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/org-plus-contrib-20150629/org-element.el"
+  "org-element.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  152106
+  '(142549 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/test-for-recurse-parse.org"
+  "test-for-recurse-parse.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode org-indent-mode)
+  3
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  30
+  '(5 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/blah.txt"
+  "blah.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(5476174 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/gpsr_7_1.xml"
+  "gpsr_7_1.xml"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode hi-lock-mode)
+  166316
+  '(166316 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/esxml-20160703.1417/esxml.el"
+  "esxml.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  5624
+  '(5914 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/tus2pua.txt"
+  "tus2pua.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4240
+  '(3519 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "gpsr"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1400
+  '(1 nil)
+  t
+  '("/home/rtb/tus/gpsr/")
+  '((overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/count.sh"
+  "count.sh"
+  'sh-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  107
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/gpsr_7_1_sem.txt"
+  "gpsr_7_1_sem.txt"
+  'text-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(5597659 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.tustep/clipboard"
+  "clipboard"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/tus/gpsr/dist/sem1-gpsr_5_1.log"
+  "sem1-gpsr_5_1.log"
+  'help-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1751
+  '(1714 nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  99907
+  '(227 nil)
+  t
+  '("dir" "Top" ((history ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/efaq" "Top" 1433) ("/usr/share/info/emacs" "Commands of GUD" 906366) ("/usr/share/info/emacs" "Debuggers" 900032))))
+  '((tab-width . 8) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (truncate-lines)))
+

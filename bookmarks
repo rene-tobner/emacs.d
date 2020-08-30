@@ -1,0 +1,39 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(#1=(#("elm-presti" 0 10
+      (bmkp-full-record #1#))
+    (buffer-name . "Sound.elm")
+    (visits . 3)
+    (time 21783 48588 39945 108000)
+    (created 21783 47657 607068 261000)
+    (position . 38)
+    (filename . "   - no file -")
+    (desktop-file . "~/.emacs.d/elm-presti.desktop")
+    (handler . bmkp-jump-desktop))
+#1=(#("Test.elm" 0 8
+      (bmkp-full-record #1#))
+    (annotation)
+    (tags)
+    (buffer-name . "Test.elm")
+    (visits . 1)
+    (time 21783 48599 208930 5000)
+    (created 21783 48568 301539 409000)
+    (position . 137)
+    (filename . "   - no file -")
+    (desktop-file . "~/.emacs.d/elm-test.desktop")
+    (handler . bmkp-jump-desktop))
+#1=(#("psycho-klipsy" 0 4
+      (bmkp-full-record #1#)
+      4 13
+      (bmkp-full-record #1#))
+    (buffer-name . ".emacs")
+    (visits . 2)
+    (time 21783 45937 299040 29000)
+    (created 21783 44192 116706 390000)
+    (position . 46290)
+    (filename . "   - no file -")
+    (desktop-file . "/home/rtb/.emacs.d/klipsy.desktop")
+    (handler . bmkp-jump-desktop))
+)

@@ -1,0 +1,129 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jul 15 00:10:27 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21925 35027 309442 988000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 12") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#F0F0E0") (background-color . "#090F10") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "orange") (environment) (frameset--id . "2CF8-012A-B1B3-00CD") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 43) (width . 137) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 90) (min-pixel-height-ignore . 108) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 18)) vc (pixel-width . 1272) (pixel-height . 758) (total-width . 141) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1272) (pixel-height . 524) (total-width . 141) (total-height . 29) (normal-height . 0.6899736147757256) (normal-width . 1.0) (buffer "multipageform.elm" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 418) (start . 418))) (leaf (last . t) (pixel-width . 1272) (pixel-height . 234) (total-width . 141) (total-height . 13) (normal-height . 0.3100263852242744) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 575) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("dired" "ass" "evil-add-hjkl-bindings" "desktop-menu-mode" "map" "add-to-list" "state-modeÅˆsjj" "search-high" "persist" "state-mode"))
+(setq register-alist '((48 . "        \"evancz/start-app\": \"1.0.0 <= v < 2.0.0\"\n") (107)))
+(setq file-name-history '("/home/rtb/elm/Seamaus-form/elm-package.json" "/home/rtb/elm/Seamaus-Finance/Main.elm" "/home/rtb/elm/Seamaus-form/elm-package.json" "/home/rtb/elm/Seamaus-form/multipageform.elm" "/home/rtb/.emacs.d/plugins/desktop-menu/desktop-menu.el" "~/.emacs.d" "/home/rtb/.emacs" "~/.emacs.d/" "/home/rtb/.emacs.d/bookmarks" "~/.emacs.d/" "/home/rtb/todo.org" "/home/rtb/todo.html" "/home/rtb/.emacs.d/.emacs.desktop" "/home/rtb/.emacs" "~/Projekte/elm-Test.sublime-project" "/home/rtb/.emacs" "/home/rtb/.tustep/clipboard" "~/elm/test/src/Test.elm" "~/elm/test/index.html" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/gedanken_model.php" "~/Projekte/psycho/ex_gedanken_tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_gedanken.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step5.php" "/home/rtb/Projekte/psycho/ex_modul___tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_imagination.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/imagination/imagination_step1.php" "/home/rtb/doks/new_mag/mag.org" "/home/rtb/elm/presti/js/glue.js" "glue.js" "/home/rtb/elm/presti/index.html" "/home/rtb/js/rest/package.json" "/home/rtb/js/node_modules/sioe-demo/package.json" "/home/rtb/js/node_modules/sioe-demo/app.js" "/home/rtb/.emacs.d/elpa/elm-mode-20141202.916/elm-mode.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/elm/Seamaus-form/multipageform.elm"
+  "multipageform.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  418
+  '(7421 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/Seamaus-form/elm-package.json"
+  "elm-package.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  374
+  '(391 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/Seamaus-form/elm.js"
+  "elm.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1
+  '(335450 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/Seamaus-Finance/Main.elm"
+  "Main.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  11
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/Seamaus-form/elm-stuff/packages/evancz/elm-html/3.0.0/src/Html.elm"
+  "Html.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  6928
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  16814
+  '(16815 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/plugins/desktop-menu/desktop-menu.el"
+  "desktop-menu.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  10245
+  '(10325 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode org-indent-mode)
+  16096
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/evil-20150313.1208/evil-vars.el"
+  "evil-vars.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  22647
+  '(22647 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/presti/src/Presti.elm"
+  "Presti.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode)
+  1346
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

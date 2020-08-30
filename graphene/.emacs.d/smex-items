@@ -1,0 +1,37 @@
+
+;; ----- smex-history -----
+(
+ list-packages
+ eval-buffer
+ highlight-symbol-at-point
+ eval-region
+ highlight-symbol-mode
+ hl-unhighlight-all-local
+ hl-highlight-mode
+)
+
+;; ----- smex-data -----
+(
+ (menu-bar-mode . 2)
+ (customize-group . 4)
+ (undo . 1)
+ (sr-speedbar-open . 1)
+ (list-packages . 5)
+ (eval-region . 4)
+ (sr-speedbar-close . 1)
+ (dired . 1)
+ (linum-mode . 1)
+ (frameset-to-register . 1)
+ (delete-frame . 1)
+ (tool-bar-mode . 1)
+ (column-number-mode . 1)
+ (customize-themes . 1)
+ (hl-highlight-mode . 7)
+ (hl-highlight-thingatpt-local . 3)
+ (hl-unhighlight-all-local . 4)
+ (highlight-symbol-mode . 2)
+ (idle-highlight-mode . 2)
+ (highlight-symbol-at-point . 1)
+ (eval-buffer . 4)
+ (auto-highlight-symbol-mode . 1)
+)

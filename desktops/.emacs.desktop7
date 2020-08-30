@@ -1,0 +1,250 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Oct  3 10:15:04 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22514 5000 260347 582000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "#839496") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 11) (right-fringe . 11) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha 80 70) (display-type . color) (background-mode . dark) (cursor-color . "#839496") (environment) (frameset--id . "020F-E76A-A592-0378") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 44) (width . 150) (left . 0) (top . 16)) ((min-height . 12) (min-width . 10) (min-height-ignore . 8) (min-width-ignore . 4) (min-height-safe . 3) (min-width-safe . 2) (min-pixel-height . 276) (min-pixel-width . 110) (min-pixel-height-ignore . 184) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 69) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1003) (total-width . 185) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 329) (total-width . 185) (total-height . 14) (normal-height . 0.3232931726907631) (normal-width . 1.0) (buffer "rpc.cljs|castra-simple" (selected) (hscroll . 0) (fringes 11 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 314) (start . 184))) (leaf (pixel-width . 1672) (pixel-height . 391) (total-width . 185) (total-height . 17) (normal-height . 0.3920867918333354) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 11 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 312) (start . 1))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 283) (total-width . 185) (total-height . 13) (normal-height . 0.28462003547590164) (normal-width . 1.0) (buffer "app" (selected) (hscroll . 0) (fringes 11 11 nil) (margins nil) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 400) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("^'" "\\^'" "orcheœô¡¿tra"))
+(setq regexp-search-ring '("clojure" "auto-mode" "describe-func" "clojure" "c" "solar" "setq evil" "cider-last-sexp" "cider" "insert-char" "|\\(.*\\)" "^.* " "!" "|\\([^!]+\\)" "brutus" "pre"))
+(setq register-alist '((48 . "[org.clojure/clojure       \"1.8.0\"]\n                 [adzerk/boot-cljs          \"1.7.228-1\"]\n                 [adzerk/boot-reload        \"0.4.12\"]\n                 [compojure                 \"1.6.0-beta1\"]\n                 [hoplon/boot-hoplon        \"0.2.4\"]\n                 [hoplon/castra             \"3.0.0-SNAPSHOT\"]\n                 [hoplon/castra \"3.0.0-20151002.232653-2\" :exclusions [commons-codec]]\n\n                 [hoplon/hoplon             \"6.0.0-alpha16\"]\n                 [org.clojure/clojurescript \"1.9.229\"]\n                 [pandeiro/boot-http        \"0.7.3\"]\n                 [ring                      \"1.6.0-beta4\"]\n                 [ring/ring-defaults        \"0.2.1\"]")))
+(setq file-name-history '("/home/rtb/clojure/demos/castra-simple/src/app/rpc.cljs" "/home/rtb/clojure/demos/validated-form/src/index.cljs.hl" "/home/rtb/clojure/demos/castra-simple/src/index.cljs.hl" "/home/rtb/clojure/address-book/target/index.html.js" "/home/rtb/clojure/address-book/target/index.html" "/home/rtb/clojure/address-book/src/index.cljs.hl" "/home/rtb/clojure/test/boot.properties" "/home/rtb/clojure/test2-hoplon-castra/project.clj" "/home/rtb/clojure/test/build.boot" "/home/rtb/.emacs" "~/clj/markov-elear/src/markov_elear/generator.clj" "/home/rtb/clj/markov-elear/project.clj" "/home/rtb/.lein/" "/home/rtb/clj/markov-elear/project.clj" "/home/rtb/clj/markov-elear/test/markov_elear/core_test.clj" "/home/rtb/clj/markov-elear/src/markov_elear/core.clj" "/home/rtb/.emacs.d/elpa/cider-20150527.1352/cider-autoloads.el~" "/home/rtb/.xinitrc" "/home/rtb/.cabal/share/x86_64-linux-ghc-7.8.4/hyphenation-0.4.2/hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/patch-hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/hyphenation-0.4/src/Text/Hyphenation/Hyphenator.hs" "/home/rtb/tus/wag3/x1.txt" "/home/rtb/tus/wag3/z4.txt" "/home/rtb/tus/awb/awb6bout.txt" "/home/rtb/tus/wag3/words2.txt" "/home/rtb/.tustep/clipboard" "/home/rtb/tus/wag3/longs.txt" "/home/rtb/tus/wag3/nolongs-1-toCheck.txt" "/home/rtb/tus/wag3/nolongs.txt" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/tus/wagner/hyphened.txt" "/home/rtb/tus/wag3/hyphened.txt" "/home/rtb/.emacs.d/plugins/ox-koma-letter.el" "/home/rtb/doks/cv/my/kleine_fluchten.org" "/home/rtb/.emacs.d/desktops/.emacs.desktop" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/.emacs" "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm" "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/castra-simple/src/app/rpc.cljs"
+  "rpc.cljs"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  314
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/castra-simple/src/index.cljs.hl"
+  "index.cljs.hl"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  54
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/castra-datomic-free/src/app/rpc.cljs"
+  "rpc.cljs"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  264
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "app"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  400
+  '(398 nil)
+  t
+  '("/home/rtb/clojure/demos/castra-datomic-free/src/app/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/castra-datomic-free/src/app/db.clj"
+  "db.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1051
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/castra-datomic-free/src/index.cljs.hl"
+  "index.cljs.hl"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  204
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  80124
+  '(80067 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "demos"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  251
+  '(nil nil)
+  t
+  '("/home/rtb/clojure/demos/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/demos/validated-form/src/index.cljs.hl"
+  "index.cljs.hl"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  588
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/test2-hoplon-castra/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  788
+  '(785 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/address-book/src/index.cljs.hl"
+  "index.cljs.hl"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  148
+  '(133 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/test/build.boot"
+  "build.boot"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  392
+  '(625 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/test/boot.properties"
+  "boot.properties"
+  'conf-javaprop-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  58
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  ".lein"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  129
+  '(nil nil)
+  t
+  '("/home/rtb/.lein/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clojure/test/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  232
+  '(13 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.lein/profiles.clj"
+  "profiles.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode cider-mode)
+  29
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clj/markov-elear/test/markov_elear/generator_test.clj"
+  "generator_test.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode cider-mode)
+  131
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clj/markov-elear/src/markov_elear/generator.clj"
+  "generator.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode cider-mode)
+  29
+  '(30 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/elpa/cider-20150527.1352/cider-interaction.el"
+  "cider-interaction.el"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  23957
+  '(70467 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "cider-20150527.1352"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  1543
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/elpa/cider-20150527.1352/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/clj/markov-elear/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode cider-mode)
+  117
+  '(270 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

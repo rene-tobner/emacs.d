@@ -1,0 +1,118 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar 30 09:50:46 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21785 86 267155 667000) (desktop . "206") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 13") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#839496") (background-color . "#002b36") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (frameset--id . "3C67-D1A1-7622-32A7") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (maximized) (visibility . t) (height . 52) (width . 189) (left . 0) (top . 16)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 80) (min-pixel-width . 200) (min-pixel-height-ignore . 40) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 20) (min-pixel-width-safe . 40)) hc (pixel-width . 1912) (pixel-height . 1036) (total-width . 191) (total-height . 51) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 952) (pixel-height . 1036) (total-width . 95) (total-height . 51) (normal-height . 1.0) (normal-width . 0.5) (buffer "init.el" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 5107) (start . 4319))) (leaf (last . t) (pixel-width . 960) (pixel-height . 1036) (total-width . 96) (total-height . 51) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Help*" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 73) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("global" "helm" "require"))
+(setq regexp-search-ring '("helm" "swoop" "define" "swoop" "define" "visual" "highligh-p" "evil" "swoop" "helm-" "visual-start" "require" "evil-motion-state-map" "helm-swoop" "evil-motion-stat" "split"))
+(setq register-alist '((48 . "(define-key isearch-mode-map (kbd \"M-i\") 'helm-swoop-from-evil-search)\n")))
+(setq file-name-history '("/home/rtb/git/dotfiles/.emacs" "" "~/.emacs.d/" "/home/rtb/.emacs.d/testcfg/.emacs.d/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/.emacs.d/testcfg/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode)
+  5107
+  '(5107 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(undo-tree-mode)
+  16815
+  '(12214 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/ausgelag.el"
+  "ausgelag.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode)
+  1
+  '(19771 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(undo-tree-mode)
+  135
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "testcfg"
+  'dired-mode
+  '(undo-tree-mode)
+  137
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/testcfg/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(undo-tree-mode)
+  147
+  '(nil nil)
+  t
+  '("/home/rtb/.emacs.d/testcfg/.emacs.d/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "dotfiles"
+  'dired-mode
+  '(undo-tree-mode)
+  1208
+  '(nil nil)
+  t
+  '("/home/rtb/git/dotfiles/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "git"
+  'dired-mode
+  '(undo-tree-mode)
+  224
+  '(nil nil)
+  t
+  '("/home/rtb/git/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "rtb"
+  'dired-mode
+  '(undo-tree-mode)
+  9333
+  '(5031 nil)
+  t
+  '("/home/rtb/")
+  nil)
+

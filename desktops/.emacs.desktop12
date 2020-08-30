@@ -1,0 +1,295 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Jun  1 00:27:39 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22831 17243 623527 529000) (desktop . "208") "rtb@thinkp" nil nil ((((font-backend xft) (font . "-1ASC-Droid Sans Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DEDEDE") (background-color . "#1E2326") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#9b9b9b") (scroll-bar-background . "#0a0a0a") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 100 100) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#FFFAAA") (environment) (frameset--id . "4DF7-6C11-D53D-1E76") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . ":0.0") (explicit-name) (height . 46) (width . 150) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 176) (min-pixel-width . 110) (min-pixel-height-ignore . 88) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 44) (min-pixel-width-safe . 22)) vc (pixel-width . 1672) (pixel-height . 1004) (total-width . 152) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1672) (pixel-height . 630) (total-width . 152) (total-height . 29) (normal-height . 0.6314741035856574) (normal-width . 1.0) (buffer "output.adt" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1135) (start . 794))) (leaf (last . t) (pixel-width . 1672) (pixel-height . 374) (total-width . 152) (total-height . 17) (normal-height . 0.36852589641434264) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 225) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("doks" "oder" "prett" "odersk" "$.ex" "jquery.ex" "is_" "dict" "register" "oder" "mongo" "sock" "encoder" "broadcast" "adapter" "this\\.ada"))
+(setq register-alist '((48 . "\"https://raw.github.com/okfn/bibserver/master/bibserver/static/vendor/facetview/jquery.facetview.js\"")))
+(setq file-name-history '("/home/rtb/pyth/bibserver-official/bibserver/templates/home/index.html" "/home/rtb/pyth/bibserver-official/bibserver/search.py" "/home/rtb/pyth/bibserver-official/bibserver/static/vendor/facetview/jquery.facetview.js" "/home/rtb/pyth/bibserver-official/bibserver/web.py" "/home/rtb/pyth/bibserver-official/" "/home/rtb/pyth/bibserver-official/setup.py" "/home/rtb/pyth/bibserver/bibserver/default_settings.py" "/home/rtb/pyth/bibserver/config.json" "/home/rtb/pyth/bibserver/bibserver/__init__.py" "/home/rtb/pyth/bibserver/bibserver/dao.py" "/home/rtb/pyth/bibserver/bibserver/web.py" "/home/rtb/todo.org" "/home/rtb/doks/mausi/pholignite/mongo_uber.txt" "/home/rtb/todo.org" "/home/rtb/doks/mausi/pholignite/updateSiteMap.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io/lib/namespace.js" "/home/rtb/doks/mausi/pholignite/node_modules/socket.io-adapter/index.js" "/home/rtb/doks/mausi/pholignite/src/css/test_autoprefixer.js" "/home/rtb/doks/mausi/pholignite/webpack.prod.config.js" "/home/rtb/doks/mausi/pholignite/src/css/tach-purified.css" "/home/rtb/doks/mausi/pholignite/src/js/admin.js" "/home/rtb/doks/mausi/pholignite/src/" "/home/rtb/doks/mausi/pholignite/src/js/agb.js" "/home/rtb/doks/mausi/pholignite/src/js/kontakt-impressum.js" "/home/rtb/doks/mausi/pholignite/bs-config.js" "/home/rtb/doks/mausi/pholignite/src/js/menu.js" "/home/rtb/doks/mausi/tachyons/src/_skins-pseudo.css" "/home/rtb/doks/mausi/tachyons/src/" "/home/rtb/doks/mausi/pholignite/" "/home/rtb/doks/mausi/pholignite/tachyon/prototype.html" "/home/rtb/doks/mausi/pholignite/node_modules/mithril-validator/mithril.validator.js" "/home/rtb/hask/fmap.hs" "/home/rtb/doks/mausi/pholignite/src/js/anfahrt.js" "/home/rtb/doks/mausi/pholignite/src/js/order_form_rules.js" "/home/rtb/doks/mausi/pholignite/src/js/inputGrid.js" "/home/rtb/doks/mausi/pholignite/node_modules/mithril-node-render/index.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/" "/home/rtb/doks/mausi/pholignite/src/js/input.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment/moment.js" "/home/rtb/doks/mausi/pholignite/node_modules/moment-timezone/" "/home/rtb/doks/mausi/pholignite/conf/nginx.conf" "/home/rtb/doks/mausi/pholignite/conf/nginx.conf.default" "/home/rtb/doks/mausi/pholignite/node_modules/express-ws/" "/home/rtb/doks/mausi/pholignite/mongo_uber.txt" "/home/rtb/doks/mausi/pholignite/views/main.html" "/home/rtb/doks/mausi/pholignite/models/orders_model.js" "/home/rtb/doks/mausi/pholignite/serve/main-view.html" "/home/rtb/js/mithril-purescript-demo/test.js" "/home/rtb/js/mithril-purescript-demo/output/" "/home/rtb/js/mithril-purescript-demo/readme.md" "/home/rtb/js/pulp-test/.psci" "/home/rtb/tmp/mithril025.js" "/home/rtb/js/mithril-purescript-demo/index.html" "/home/rtb/js/mithril-purescript-demo/bower.json" "/home/rtb/js/mithril-purescript-demo/src/Mithril.js" "/home/rtb/js/mithril-purescript-demo/src/Mithril.purs" "/home/rtb/js/mithril-purescript-demo/src/Main.purs" "/home/rtb/js/mithril-purescript-demo/output.js" "/home/rtb/js/mithril-starter/site/config/environment/production.js" "/home/rtb/js/mithril-starter/build/app.js" "/home/rtb/js/mithril-starter/npm-debug.log" "/home/rtb/js/mithril-starter/" "/home/rtb/js/mithril-starter/shared/email_validation.js" "/home/rtb/js/mithril-starter/node_modules/bootswatch/" "/home/rtb/js/mithril-starter/package.json" "/home/rtb/js/mithril-starter/webpack/webpack.config.production.js" "/home/rtb/js/mithril-starter/node_modules/browser-sync/index.js" "/home/rtb/js/mithril-starter/node_modules/chokidar/index.js" "/home/rtb/.emacs" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/site/mockPost.js" "/home/rtb/.emacs.d/elpa/solarized-theme-20150308.128/solarized-dark-theme.el" "/home/rtb/.emacs.d/elpa/solarized-theme-20150308.128/solarized.el" "/home/rtb/.emacs.d/elm-presti.desktop" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/server/index.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/server/pages/user/userModel.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/site/seedPost.js" "/home/rtb/js/mongodb-express-redux-mithril-universal-start/" "/home/rtb/doks/mausi/pholignite/application/config/autoload.php" "/home/rtb/.config/uzbl/config" "/home/rtb/doks/mausi/pholignite/system/core/CodeIgniter.php" "/home/rtb/doks/mausi/pholignite/application/" "/home/rtb/doks/psycho/htdocs/psycho.org" "/home/rtb/doks/mausi/pholignite/.htaccess" "/home/rtb/doks/mausi/pholignite/node_modules/jquery/src/core.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/dist/css/bootstrap.css" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/less/dropdowns.less" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/package.json" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker3.css" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" "/home/rtb/doks/mausi/pholignite/dist/bundle.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/js/tooltip.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/dist/js/npm.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/js/tooltip.js" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/package.json" "/home/rtb/doks/mausi/pholignite/node_modules/bootstrap/js/tooltip.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/rtb/doks/cusanus/allegro-export/output.adt"
+  "output.adt"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode text-scale-mode)
+  1135
+  '(1135 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1135 1135 1135 1586 1586 1586))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/test/data/sample.json"
+  "sample.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  7
+  '(7 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (614 6431 6431 618 618))))
+
+(desktop-create-buffer 208
+  nil
+  "allegro-export"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  186
+  '(186 nil)
+  t
+  '("/home/rtb/doks/cusanus/allegro-export/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring (186 186 186 230 230))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/templates/home/index.html"
+  "index.html"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  27
+  '(27 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/templates/base.html"
+  "base.html"
+  'html-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode emmet-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3199
+  '(3199 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4680 1549 1549 5425 5425 1817 1717 2993 2981 2993 44 44))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/search.py"
+  "search.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  16646
+  '(16646 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (10411 10411 1 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/static/vendor/facetview/jquery.facetview.js"
+  "jquery.facetview.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2154
+  '(2154 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2143 1260 2141 1279 2141 2141 1328 1328 1 3377 3377 1260 1260 39872 39872 42504))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/templates/search/index.html"
+  "index.html"
+  'web-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  9190
+  '(9190 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (9190 9190 9190 9190 9190))))
+
+(desktop-create-buffer 208
+  nil
+  "search"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  124
+  '(nil nil)
+  t
+  '("/home/rtb/pyth/bibserver-official/bibserver/templates/search/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/test/data/bulk_upload.json"
+  "bulk_upload.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  35
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/auth/user.py"
+  "user.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  355
+  '(355 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (355 355 355))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/web.py"
+  "web.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  3575
+  '(9490 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (3575 9490 3575 9502 3587 1))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/bibserver/auth/collection.py"
+  "collection.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  515
+  '(515 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver-official/setup.py"
+  "setup.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  170
+  '(170 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (170))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/dao.py"
+  "dao.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  4769
+  '(4769 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4588 4193 2210 2159 2113 2022 2000 1757 1740 71 71 71 71 71 819 819))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/view/account.py"
+  "account.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  2594
+  '(2594 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2209 2209 2208 2208))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/web.py"
+  "web.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  635
+  '(635 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (635 635 635 635 635 362 362 362))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/core.py"
+  "core.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  153
+  '(153 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (153 153 153 34 479))))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/config.json"
+  "config.json"
+  'json-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1 1 1883 1883))))
+
+(desktop-create-buffer 208
+  nil
+  "bibserver"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode beacon-mode)
+  412
+  '(nil nil)
+  t
+  '("/home/rtb/pyth/bibserver/bibserver/")
+  '((overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/auth/collection.py"
+  "collection.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/pyth/bibserver/bibserver/auth/user.py"
+  "user.py"
+  'python-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode beacon-mode)
+  164173
+  '(164173 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (164173 1 1))))
+

@@ -1,0 +1,96 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Apr  3 09:11:33 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21790 15653 454764 182000) (desktop . "206") "rtb@thinkp" nil nil ((((font-backend xft) (font-parameter . "Droid Sans Mono 12") (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#e0e0e0") (background-color . "#282a2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "white") (visibility . t) (frameset--id . "2CF8-012A-B1B3-00CD") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (horizontal-scroll-bars . t) (environment) (height . 52) (width . 189) (left . 0) (top . 16)) ((min-height . 8) (min-width . 20) (min-height-ignore . 6) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 160) (min-pixel-width . 200) (min-pixel-height-ignore . 120) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 40) (min-pixel-width-safe . 40)) hc (pixel-width . 1912) (pixel-height . 1036) (total-width . 191) (total-height . 52) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 952) (pixel-height . 1036) (total-width . 95) (total-height . 52) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Help*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 17906) (start . 16743))) (vc (last . t) (pixel-width . 960) (pixel-height . 1036) (total-width . 96) (total-height . 52) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 896) (total-width . 96) (total-height . 45) (normal-height . 0.8667953667953668) (normal-width . 1.0) (buffer "*Buffer List*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 960) (pixel-height . 140) (total-width . 96) (total-height . 7) (normal-height . 0.1332046332046332) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 402) (start . 224))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '("desktop" "\\<removeArtifacts\\>" "\\<compileSource\\>" "compile" ">>" "\\<partition\\>" "t\\." "t." "\\<T\\>" "evil-add-hjkl-bindings" "desktop-menu-mode" "map" "add-to-list" "state-modeÅˆsjj" "search-high" "persist"))
+(setq register-alist '((107)))
+(setq file-name-history '("/home/rtb/.emacs" "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm" "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/.emacs.d/evil-integration.el" "/home/rtb/.emacs.d/plugins/desktop-menu/desktop-menu.el" "~/.emacs.d" "/home/rtb/.emacs" "~/.emacs.d/" "/home/rtb/.emacs.d/bookmarks" "~/.emacs.d/" "/home/rtb/todo.org" "/home/rtb/todo.html" "/home/rtb/.emacs.d/.emacs.desktop" "/home/rtb/.emacs" "~/Projekte/elm-Test.sublime-project" "/home/rtb/.emacs" "/home/rtb/.tustep/clipboard" "~/elm/test/src/Test.elm" "~/elm/test/index.html" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/models/exercises/gedanken_model.php" "~/Projekte/psycho/ex_gedanken_tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_gedanken.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/gedanken/gedanken_step5.php" "/home/rtb/Projekte/psycho/ex_modul___tables.txt" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/controllers/patient/ex_imagination.php" "/home/rtb/doks/psycho/htdocs/ci_pf_0.8.0/application/views/patient/exercises/imagination/imagination_step1.php" "/home/rtb/doks/new_mag/mag.org" "/home/rtb/elm/presti/js/glue.js" "glue.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode)
+  28167
+  '(38610 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm"
+  "Learn.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1
+  '(3798 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "elm"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  150
+  '(nil nil)
+  t
+  '("/home/rtb/elm/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/backend/Compile.hs"
+  "Compile.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  47
+  '(996 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/backend/Server.hs"
+  "Server.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  968
+  '(2433 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/backend/Editor.hs"
+  "Editor.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  3369
+  '(3369 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm"
+  "Interactive-UI-Elements.elm"
+  'elm-mode
+  '(elm-indent-mode visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  579
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+

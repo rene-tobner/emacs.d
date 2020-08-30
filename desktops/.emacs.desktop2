@@ -1,0 +1,305 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jun 12 00:21:26 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21882 2534 331229 75000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Droid Sans Mono 12") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#93a1a1") (background-color . "#000F14") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#3748A0") (environment) (frameset--id . "2CF8-012A-B1B3-00CD") (frameset--mini t . t) (visibility . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (height . 43) (width . 137) (left . 0) (top . 16)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 90) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 18)) vc (pixel-width . 1272) (pixel-height . 758) (total-width . 141) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1272) (pixel-height . 524) (total-width . 141) (total-height . 29) (normal-height . 0.6899736147757256) (normal-width . 1.0) (buffer "fib_memo.hs" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 452) (start . 22))) (leaf (last . t) (pixel-width . 1272) (pixel-height . 234) (total-width . 141) (total-height . 13) (normal-height . 0.3100263852242744) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 750) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/home/rtb/hask/spock-test/TAGS")
+(setq tags-table-list '("/home/rtb/hask/spock-test/TAGS"))
+(setq search-ring nil)
+(setq regexp-search-ring '("\\<Generic\\>" "MongoBackend" "auth" "options.auth" "object" "auth" "options" "Server" "\\<AuthSession\\>" "\\<loadConfig\\>" "\\<csParseExtra\\>" "\\<parseExtra\\>" "deep" "mongo" "tomow" "haskell"))
+(setq register-alist '((48 . "docs.mongodb.org/manual/reference/connection-string/\n") (107 . "j") (106 . "j")))
+(setq file-name-history '("/home/rtb/hask/fib/fib_memo.hs" "/home/rtb/tus/awb/von_peter/kawbF.txt" "/home/rtb/hask/snap/the-pragmatic-haskeller/01-json/src/Main.hs" "/home/rtb/hask/snap/Hello.hs" "/home/rtb/mongo/nodeWithMongo/app.js" "/home/rtb/hask/yesod/visual/Mongo_test.hs" "/home/rtb/hask/yesod/visual/config/mongoDB.yml" "/home/rtb/hask/yesod/visual/Application.hs" "/home/rtb/.tustep/clipboard" "~/hask/spock-test/TAGS" "/home/rtb/hask/spock-test/src/Main.hs" "/home/rtb/elm/presti/src/Experiment.elm" "/home/rtb/.emacs" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/.emacs.d/desktops/.emacs.desktop" "/home/rtb/.emacs.d/desktops/klipsy.desktop" "/home/rtb/.emacs.d/desktops/elm-test.desktop" "/home/rtb/.emacs" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/elm/presti/src/Experiment.elm" "~/Projekte/elm-presti.desktop" "/home/rtb/.emacs.d/bookmarks" "~/.emacs.d/" "/home/rtb/todo.org" "/home/rtb/todo.html" "/home/rtb/.emacs.d/.emacs.desktop" "/home/rtb/.emacs" "~/Projekte/elm-Test.sublime-project" "/home/rtb/.emacs" "/home/rtb/.tustep/clipboard"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/hask/fib/fib_memo.hs"
+  "fib_memo.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode haskell-indentation-mode)
+  452
+  '(569 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/the-pragmatic-haskeller/01-json/src/Pragmatic/Types.hs"
+  "Types.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  583
+  '(692 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/the-pragmatic-haskeller/01-json/src/Pragmatic/JSON/Parser.hs"
+  "Parser.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/the-pragmatic-haskeller/01-json/src/Main.hs"
+  "Main.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  394
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "JSON"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  135
+  '(nil nil)
+  t
+  '("/home/rtb/hask/snap/the-pragmatic-haskeller/01-json/src/Pragmatic/JSON/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode helm-mode)
+  513
+  '(nil nil)
+  t
+  '("/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/lib/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/snap/Hello.hs"
+  "Hello.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  146
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/yesod/visual/Mongo_test.hs"
+  "Mongo_test.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  1283
+  '(391 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/yesod/visual/config/mongoDB.yml"
+  "mongoDB.yml"
+  'fundamental-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  53
+  '(64 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/yesod/visual/Application.hs"
+  "Application.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  2473
+  '(2931 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/lib/mongo_client.js"
+  "mongo_client.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  2133
+  '(2185 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/lib/server.js"
+  "server.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  624
+  '(623 t)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/lib/db.js"
+  "db.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  795
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/app.js"
+  "app.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  394
+  '(82 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/index.js"
+  "index.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  199
+  '(1168 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js"
+  "server.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  16938
+  '(16476 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/node_modules/mongodb-core/index.js"
+  "index.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  396
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/mongo/nodeWithMongo/node_modules/mongodb/node_modules/mongodb-core/lib/auth/mongocr.js"
+  "mongocr.js"
+  'js3-mode
+  '(visual-line-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  1048
+  '(3484 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Forms/NumTest.hs"
+  "NumTest.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  283
+  '(29 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Forms/Login.hs"
+  "Login.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  342
+  '(617 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Blog.hs"
+  "Blog.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  2735
+  '(2729 t)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Bootstrap.hs"
+  "Bootstrap.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  36
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Utils.hs"
+  "Utils.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Actions/User.hs"
+  "User.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  156
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/hask/spock-test/src/Web/Views/Home.hs"
+  "Home.hs"
+  'haskell-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode haskell-indentation-mode)
+  1092
+  '(1178 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  43721
+  '(41526 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+

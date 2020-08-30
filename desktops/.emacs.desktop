@@ -1,0 +1,41 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue May 26 21:18:52 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21860 50972 396547 304000) (desktop . "206") "rtb@thinkp.fritz.box" nil nil ((((font-backend xft) (font-parameter . "Droid Sans Mono 12") (border-width . 0) (internal-border-width . 3) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . t) (foreground-color . "#93a1a1") (background-color . "#000F14") (mouse-color . "black") (border-color . "#eee8d5") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground . "#839496") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "#3748A0") (visibility . t) (frameset--id . "2CF8-012A-B1B3-00CD") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (horizontal-scroll-bars . t) (environment) (height . 44) (width . 137) (left . 0) (top . 0)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 6) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 144) (min-pixel-width . 90) (min-pixel-height-ignore . 108) (min-pixel-width-ignore . 54) (min-pixel-height-safe . 36) (min-pixel-width-safe . 18)) vc (pixel-width . 1272) (pixel-height . 774) (total-width . 141) (total-height . 43) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1272) (pixel-height . 576) (total-width . 141) (total-height . 32) (normal-height . 0.7558139534883721) (normal-width . 1.0) (buffer ".emacs" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 58745) (start . 58368))) (leaf (last . t) (pixel-width . 1272) (pixel-height . 198) (total-width . 141) (total-height . 11) (normal-height . 0.2441860465116279) (normal-width . 1.0) (buffer "*Desktop Menu*" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 52) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("^'" "\\^'" "orcheœô¡¿tra"))
+(setq regexp-search-ring '("insert-char" "|\\(.*\\)" "^.* " "!" "|\\([^!]+\\)" "brutus" "pre" "spross" "amfor" "\\*" "p0" "œô¡¿'$" "'$" "luxu" "genast" "gemüth"))
+(setq register-alist '((104) (113) (48 . "xx    5   |Abfas-|Abfaœô¡¿-|\nxx    5   |Aeschylos|Aeœô¡¿chylos|\nxx    5   |Ästhe-|Äœô¡¿the-|\nxx    5   |ästhe-|äœô¡¿the-|\nxx    5   |Ästhetik|Äœô¡¿thetik|\nxx    5   |Ästhetiker|Äœô¡¿thetiker|\nxx    5   |Ästhetikern|Äœô¡¿thetikern|\nxx    5   |Aischylos|Aiœô¡¿chylos|\nxx    5   |Ausgangsproscenium|Ausgangsproœô¡¿cenium|\nxx    5   |Auslas-|Auslaœô¡¿-|\nxx    5   |Balconscene|Balconœô¡¿cene|\nxx    5   |Balletscene|Balletœô¡¿cene|\nxx    5   |bespei't|beœô¡¿pei't|\nxx    5   |ernsthaft|ernœô¡¿thaft|\nxx    5   |ernsthaften|ernœô¡¿thaften|\nxx    5   |ernsthafter|ernœô¡¿thafter|\nxx    5   |Eurystheus|Euryœô¡¿theus|\nxx    5   |Fasces|Faœô¡¿ces|\nxx    5   |Faustouvertüre|Fauœô¡¿touvertüre|\nxx    5   |Flitterstyle|Flitterœô¡¿tyle|\nxx    5   |hinwegspringt|hinwegœô¡¿pringt|\nxx    5   |Histrio|Hiœô¡¿trio|\nxx    5   |Histrionen|Hiœô¡¿trionen|\nxx    5   |Histrionenbanden|Hiœô¡¿trionenbanden|\nxx    5   |Interes-|Intereœô¡¿-|\nxx    5   |Israel|Iœô¡¿rael|\nxx    5   |Israel's|Iœô¡¿rael's|\nxx    5   |Israeliten|Iœô¡¿raeliten|\nxx    5   |Israels|Iœô¡¿raels|\nxx    5   |Kirchenscene|Kirchenœô¡¿cene|\nxx    5   |klas-|klaœô¡¿-|\nxx    5   |kriegst's|kriegœô¡¿t's|\nxx    5   |Lehrsentenz|Lehrœô¡¿entenz|\nxx    5   |Missethäter|Miœô¡¿œô¡¿ethäter|\nxx    5   |Missethat|Miœô¡¿œô¡¿ethat|\nxx    5   |Monsalvat|Monœô¡¿alvat|\nxx    5   |murksender|murkœô¡¿ender|\nxx    5   |Nachtscenen|Nachtœô¡¿cenen|\nxx    5   |Naturscala|Naturœô¡¿cala|\nxx    5   |Naturscene|Naturœô¡¿cene|\nxx    5   |Opernscene|Opernœô¡¿cene|\nxx    5   |Opernstyl|Opernœô¡¿tyl|\nxx    5   |Opernstyle|Opernœô¡¿tyle|\nxx    5   |Opernstyles|Opernœô¡¿tyles|\nxx    5   |Oratorienstyle|Oratorienœô¡¿tyle|\nxx    5   |Originalstyle|Originalœô¡¿tyle|\nxx    5   |Palestrina|Paleœô¡¿trina|\nxx    5   |Piedestal|Piedeœô¡¿tal|\nxx    5   |Profes-|Profeœô¡¿-|\nxx    5   |Proscenien|Proœô¡¿cenien|\nxx    5   |Proscenium|Proœô¡¿cenium|\nxx    5   |Prosceniumlogen|Proœô¡¿ceniumlogen|\nxx    5   |Prosceniums|Proœô¡¿ceniums|\nxx    5   |Recensenten|Recenœô¡¿enten|\nxx    5   |Regis-|Regiœô¡¿-|\nxx    5   |Seelenskrupels|Seelenœô¡¿krupels|\nxx    5   |Thespis|Theœô¡¿pis|\nxx    5   |Tragsänfte|Tragœô¡¿änfte|\nxx    5   |unnützester|unnützeœô¡¿ter|\nxx    5   |Veranlas-|Veranlaœô¡¿-|\nxx    5   |wahresten|wahreœô¡¿ten|\nxx    5   |Winsler|Winœô¡¿ler|\nxx    5   |Wortstyle|Wortœô¡¿tyle|\n") (107 . "jjj")))
+(setq file-name-history '("/home/rtb/.xinitrc" "/home/rtb/.cabal/share/x86_64-linux-ghc-7.8.4/hyphenation-0.4.2/hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/patch-hyph-de-1901.pat.txt" "/home/rtb/tus/wagner/hs/hyphenation-0.4/src/Text/Hyphenation/Hyphenator.hs" "/home/rtb/tus/wag3/x1.txt" "/home/rtb/tus/wag3/z4.txt" "/home/rtb/tus/awb/awb6bout.txt" "/home/rtb/tus/wag3/words2.txt" "/home/rtb/.tustep/clipboard" "/home/rtb/tus/wag3/longs.txt" "/home/rtb/tus/wag3/nolongs-1-toCheck.txt" "/home/rtb/tus/wag3/nolongs.txt" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/tus/wagner/hyphened.txt" "/home/rtb/tus/wag3/hyphened.txt" "/home/rtb/.emacs.d/plugins/ox-koma-letter.el" "/home/rtb/doks/cv/my/kleine_fluchten.org" "/home/rtb/.emacs.d/desktops/.emacs.desktop" "/home/rtb/.emacs.d/desktops/elm-presti.desktop" "/home/rtb/.emacs" "/home/rtb/elm/elm-lang.org/frontend/public/learn/Interactive-UI-Elements.elm" "/home/rtb/elm/elm-lang.org/frontend/public/Learn.elm" "/home/rtb/tus/wagner/hs/Hyphen.hs" "/home/rtb/.emacs.d/evil-integration.el" "/home/rtb/.emacs.d/plugins/desktop-menu/desktop-menu.el" "~/.emacs.d" "/home/rtb/.emacs" "~/.emacs.d/" "/home/rtb/.emacs.d/bookmarks" "~/.emacs.d/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/rtb/git/dotfiles/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode auto-complete-mode undo-tree-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode)
+  58745
+  '(59585 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/home/rtb/todo.org"
+  "todo.org"
+  'org-mode
+  '(visual-line-mode undo-tree-mode evil-org-mode global-auto-revert-mode yas-minor-mode flycheck-mode helm-mode org-indent-mode text-scale-mode)
+  33768
+  '(33768 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines)))
+
